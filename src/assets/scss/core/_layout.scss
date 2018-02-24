@@ -13,14 +13,14 @@ h2 {
 }
 
 .row {
-  margin: 5rem 0;
+  margin: 2rem 0;
 }
 
 thead {
   background-color: #efefef;
 }
 
-.course-resources {
+.course-resources, .course-announcements {
   padding: 2rem 0;
   background-color: #efefef;
 }
@@ -31,4 +31,10 @@ footer {
   box-shadow: 0 -1px 1px 0 rgba(0,0,0,.05);
   color: #fff;
   font-weight: 300;
+
+  .lineEnd {
+    float: right;
+  }
+
+  @extend %link-fontColor;
 }

@@ -1,12 +1,10 @@
 nav {
   background-color: #ab3020;
+  @extend %link-fontColor;
 }
 
-nav a {
-  color: rgba(255,255,255,1);
-  font-weight: 300;
-}
-
-nav a:hover {
-  color: rgba(255,255,255,0.8);
+@media only screen and (max-width: 400px) {
+  header .container {
+    padding: 0;
+  }
 }
