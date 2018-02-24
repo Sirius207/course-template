@@ -8,4 +8,19 @@
       height: 1rem;
     }
   }
+
+  .listItem-content--popup {
+    display: none;
+  }
+}
+
+.newsList {
+  padding: 0;
+  .listItem {
+    border-bottom: 1px solid #c5c5c5;
+    cursor: pointer;
+  }
+  div {
+    padding: 0.75rem;
+  }
 }

@@ -22,7 +22,7 @@
       <div class="container">
         <ul class="nav justify-content-end">
           <li class="nav-item">
-            <a class="nav-link active" href="#">Announcements</a>
+            <a class="nav-link" href="#course-announcements">Announcements</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#course-schedule">Schedule</a>
@@ -166,7 +166,36 @@
   <section id="course-announcements" class="course-announcements">
     <div class="container">
       <h2>Announcements</h2>
-
+      <ul class="newsList">
+        <li class="listItem">
+          <div class="listItem-index">
+            2/27
+          </div>
+          <!-- Button trigger modal -->
+          <div class="listItem-content" data-toggle="modal" data-target="#2/27-modal">
+            Released HW1
+          </div>
+          <!-- Modal -->
+          <div class="modal fade" id="2/27-modal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+            <div class="modal-dialog" role="document">
+              <div class="modal-content">
+                <div class="modal-header">
+                  <h5 class="modal-title" id="exampleModalLongTitle">Modal title</h5>
+                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                  </button>
+                </div>
+                <div class="modal-body">
+                  Markdown
+                </div>
+                <div class="modal-footer">
+                  <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </li>
+      </ul>
     </div>
   </section>
   <!-- Course Schedule -->
@@ -186,8 +215,12 @@
           <tr>
             <th data-title="Week" data-date="2/27" scope="row">Week 1</th>
             <td data-title="Date" class="mobile--hide">2/27</td>
-            <td data-title="Description">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Laborum itaque veniam unde, consectetur, quis tempora voluptate distinctio dolore facilis vero ipsum, quisquam maxime deleniti. Autem exercitationem laudantium distinctio quia molestiae?</td>
-            <td data-title="Reading">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Qui voluptatum fuga accusantium doloremque repellendus laborum, culpa similique temporibus in illum recusandae dolores iste saepe, consectetur cumque voluptatem incidunt sunt maiores.</td>
+            <td data-title="Description">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Laborum itaque veniam unde, consectetur, quis tempora
+              voluptate distinctio dolore facilis vero ipsum, quisquam maxime deleniti. Autem exercitationem laudantium distinctio
+              quia molestiae?</td>
+            <td data-title="Reading">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Qui voluptatum fuga accusantium doloremque repellendus
+              laborum, culpa similique temporibus in illum recusandae dolores iste saepe, consectetur cumque voluptatem incidunt
+              sunt maiores.</td>
           </tr>
           <tr>
             <th data-title="Week" data-date="3/18" scope="row">Week 2</th>
@@ -210,7 +243,9 @@
   <footer>
     <div class="container">
       <span>© 2017 NCKU CCS.</span>
-      <span class="lineEnd" >Inspired by <a href="http://web.stanford.edu/class/cs276/" target="_blank" rel=noopener>CS276</a></span>
+      <span class="lineEnd">Page Inspired by
+        <a href="http://web.stanford.edu/class/cs276/" target="_blank" rel=noopener>CS 276</a>
+      </span>
     </div>
   </footer>
 </body>

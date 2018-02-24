@@ -5,6 +5,7 @@ body {
 section {
   font-size: 16px;
   font-weight: 300;
+  padding-bottom: 2rem;
 }
 
 h2 {
@@ -20,14 +21,14 @@ thead {
   background-color: #efefef;
 }
 
-.course-resources, .course-announcements {
-  padding: 2rem 0;
+.course-resources {
+  padding: 2rem;
   background-color: #efefef;
 }
 
 footer {
   padding: 15px 0;
-  background-color: #ab3020;
+  background-color: $bgRed;
   box-shadow: 0 -1px 1px 0 rgba(0,0,0,.05);
   color: #fff;
   font-weight: 300;
