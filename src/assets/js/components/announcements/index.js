@@ -1,5 +1,5 @@
+import marked from 'marked';
 import newsData from '../../../data/content/2018/announcementsData';
-
 
 function renderNewsItem(news) {
   return `
@@ -22,7 +22,7 @@ function renderNewsItem(news) {
               </button>
             </div>
             <div class="modal-body">
-              ${news.content}
+              ${marked(news.content)}
             </div>
             <div class="modal-footer">
               <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>

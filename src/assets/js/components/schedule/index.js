@@ -1,3 +1,4 @@
+import marked from 'marked';
 import scheduleData from '../../../data/content/2018/scheduleData';
 
 /* *
@@ -21,8 +22,8 @@ function renderTbodyListItem(lecture, index) {
     <tr>
       <th data-title="Week" data-date="${lecture.date}" scope="row">Week ${index + 1}</th>
       <td data-title="Date" class="mobile--hide">${lecture.date}</td>
-      <td data-title="Description">${lecture.description}</td>
-      <td data-title="Reading">${lecture.reading}</td>
+      <td data-title="Description">${marked(lecture.description)}</td>
+      <td data-title="Reading">${marked(lecture.reading)}</td>
     </tr>
   `;
 }

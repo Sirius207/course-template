@@ -1,3 +1,4 @@
+import marked from 'marked';
 import resourcesData from '../../../data/content/2018/resourcesData';
 
 
@@ -6,7 +7,7 @@ function renderResources(resources) {
   <section id="course-resources" class="course-resources">
     <div class="container">
       <h2>Resources</h2>
-      <div>${resources}</div>
+      <div>${marked(resources)}</div>
     </div>
   </section>
   `;
