@@ -5,7 +5,7 @@ const HtmlWebpackPlugin = require('html-webpack-plugin');
 const ExtractTextPlugin = require('extract-text-webpack-plugin');
 const UglifyJsPlugin = require('uglifyjs-webpack-plugin');
 
-const buildPath = path.resolve(__dirname, 'doc');
+const buildPath = path.resolve(__dirname, 'docs');
 const extractPlugin = new ExtractTextPlugin({
   filename: './assets/css/app.css',
 });
@@ -77,7 +77,7 @@ module.exports = {
   },
   plugins: [
     // clear old build folder before building
-    new CleanWebpackPlugin(['doc']),
+    new CleanWebpackPlugin(['docs']),
     // auto update index.html in dist folder
     new HtmlWebpackPlugin({
       template: 'index.html',

@@ -1,10 +1,10 @@
 # course-template
 A web template for courses.
 
-## Changelog
-
 ## Getting Started
 
+### 1. Update Each Text Content in src/assets/data/content/2018
+### 2. Build Static Files by 'npm run build'
 
 ### Prerequisite
 - Webpack: 3.x
@@ -27,3 +27,8 @@ $ npm run dev
 ```
 $ npm run build
 ```
+
+## Changelog
+
+- 0.9
+- - [Init] Dynamic Content Loading

@@ -4,7 +4,7 @@ const HtmlWebpackPlugin = require('html-webpack-plugin');
 const ExtractTextPlugin = require('extract-text-webpack-plugin');
 const ReloadPlugin = require('reload-html-webpack-plugin');
 
-const buildPath = path.resolve(__dirname, 'doc');
+const buildPath = path.resolve(__dirname, 'docs');
 const extractPlugin = new ExtractTextPlugin({
   filename: './assets/css/app.css',
 });
@@ -13,7 +13,7 @@ module.exports = {
   context: path.resolve(__dirname, 'src'),
   devtool: 'inline-source-map',
   devServer: {
-    contentBase: 'path.resolve(__dirname, "doc")',
+    contentBase: 'path.resolve(__dirname, "docs")',
     hot: true,
     open: true,
     compress: true,
