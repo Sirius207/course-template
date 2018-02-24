@@ -5,7 +5,7 @@ import getNewsDom from './components/announcements';
 import getScheduleTableDom from './components/schedule';
 import getResourcesDom from './components/resources';
 
-function renderPage() {
+function getFullDom() {
   const headerDom = getHeaderDom();
   const infoDom = getInfoSectionDom();
   const newsDom = getNewsDom();
@@ -15,7 +15,12 @@ function renderPage() {
   return fullDom;
 }
 
-$(document).ready(() => {
-  const fullDom = renderPage();
+function renderPage() {
+  const fullDom = getFullDom();
   $('body').prepend(fullDom);
+  $('.loader').remove();
+}
+
+$(document).ready(() => {
+  renderPage();
 });
