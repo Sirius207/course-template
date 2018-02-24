@@ -1,7 +1,5 @@
 import $ from 'jquery';
 
-import marked from 'marked';
-
 import getHeaderDom from './components/header';
 import getInfoSectionDom from './components/information';
 import getNewsDom from './components/announcements';
