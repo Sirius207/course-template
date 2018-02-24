@@ -1,3 +1,7 @@
+body {
+  font-family: Roboto, sans-serif;
+}
+
 section {
   font-size: 16px;
   font-weight: 300;
@@ -5,7 +9,7 @@ section {
 
 h2 {
   font-size: 25px;
-  font-weight: 300;
+  font-weight: 400;
 }
 
 .row {
@@ -23,6 +27,8 @@ thead {
 
 footer {
   padding: 15px 0;
-  background-color: #fff;
+  background-color: #ab3020;
   box-shadow: 0 -1px 1px 0 rgba(0,0,0,.05);
+  color: #fff;
+  font-weight: 300;
 }

@@ -5,7 +5,15 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Data Science and Artificial Intelligence Practice - Spring 2018</title>
+  <link rel="shortcut icon" href="./assets/media/images/favicon.ico" type="image/x-icon">
+  <title>Data Science and Artificial Intelligence Practice - Spring 2018 - NCKU</title>
+  <meta name="description" content="">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Data Science and Artificial Intelligence Practice - Spring 2018 - NCKU">
+  <meta property="og:site_name" content="Data Science and Artificial Intelligence Practice - Spring 2018 - NCKU">
+  <meta property="og:description" content="">
+  <meta property="og:url" content="">
+  <meta property="og:image" content="">
 </head>
 
 <body>
@@ -17,7 +25,7 @@
             <a class="nav-link active" href="#">Announcements</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#course-info">Infomation</a>
+            <a class="nav-link" href="#course-info">Information</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#course-schedule">Schedule</a>
@@ -41,11 +49,12 @@
       </div>
     </div>
   </header>
+  <!-- BASIC Course Information -->
   <section class="course-info">
     <div class="container">
       <div class="info-teachers row">
         <div class="teacher-instructor col-md-4">
-          <h2>Course Instructors</h2>
+          <h2>Instructors</h2>
           <div class="teachers-avatar">
             <a href="">
               <div class="avatar">
@@ -58,7 +67,7 @@
           </div>
           <div class="teachers-avatar">
             <a href="">
-              <div class="avatar teacher-avatar">
+              <div class="avatar">
                 <img src="http://i.pravatar.cc/120" alt="">
               </div>
               <p class="teacher-name">
@@ -71,7 +80,7 @@
           <h2>Teaching Assistants</h2>
           <div class="teachers-avatar">
             <a href="">
-              <div class="avatar teacher-avatar">
+              <div class="avatar">
                 <img src="http://i.pravatar.cc/120" alt="">
               </div>
               <p class="teacher-name">
@@ -81,7 +90,7 @@
           </div>
           <div class="teachers-avatar">
             <a href="">
-              <div class="avatar teacher-avatar">
+              <div class="avatar">
                 <img src="http://i.pravatar.cc/120" alt="">
               </div>
               <p class="teacher-name">
@@ -91,7 +100,7 @@
           </div>
           <div class="teachers-avatar">
             <a href="">
-              <div class="avatar teacher-avatar">
+              <div class="avatar">
                 <img src="http://i.pravatar.cc/120" alt="">
               </div>
               <p class="teacher-name">
@@ -101,41 +110,62 @@
           </div>
         </div>
       </div>
-      <div class="info-general row">
-        <div class="general-time col-md-6">
-          <h2>Class time & location</h2>
-          <p>Spring quarter 2018
-            <br>Lecture times: Tues, 9:10-12:00pm, Feb 27 - June
-            <br>Location: 6510?
-          </p>
+      <div class="info-general list row">
+        <div class="general-time listItem col-md-6">
+          <div class="listItem-icon">
+            <img src="assets/media/open-iconic/svg/clock.svg">
+          </div>
+          <div class="listItem-content">
+            <h2>Class time & location</h2>
+            <p>Spring quarter 2018
+              <br>Lecture times: Tues, 9:10-12:00pm, Feb 27 - June
+              <br>Location: 6510?
+            </p>
+          </div>
         </div>
-        <div class="general-grade col-md-6">
-          <h2>Evaluation</h2>
-          <p>
-            5 HWs (50%), 1 mid-term project (15%), team-based paper presentation (10%), final-term project (25%) Panel Discussion (5%
-            bonus)
-          </p>
+        <div class="general-grade listItem col-md-6">
+          <div class="listItem-icon">
+            <img src="assets/media/open-iconic/svg/pie-chart.svg">
+          </div>
+          <div class="listItem-content">
+            <h2>Evaluation</h2>
+            <p>
+              5 HWs (50%), 1 mid-term project (15%), team-based paper presentation (10%), final-term project (25%) Panel Discussion (5%
+              bonus)
+            </p>
+          </div>
         </div>
-        <div class="general-books col-md-6">
-          <h2>
-            Textbooks
-          </h2>
-          <p>
-            some book
-            <br>some book
-          </p>
+        <div class="general-books listItem col-md-6">
+          <div class="listItem-icon">
+            <img src="assets/media/open-iconic/svg/book.svg">
+          </div>
+          <div class="listItem-content">
+            <h2>
+              Textbooks
+            </h2>
+            <p>
+              some book
+              <br>some book
+            </p>
+          </div>
         </div>
-        <div class="general-prerequisites col-md-6">
-          <h2>Prerequisites</h2>
-          <p>
-            Database, Probability and Statistics
-            <br> We will only support Python-based projects. Note that we don’t argue which language is better. We force the
-            used language due to the fairness (You can google to acquire the same resource).
-          </p>
+        <div class="general-prerequisites listItem col-md-6">
+          <div class="listItem-icon">
+            <img src="assets/media/open-iconic/svg/bell.svg">
+          </div>
+          <div class="listItem-content">
+            <h2>Prerequisites</h2>
+            <p>
+              Database, Probability and Statistics
+              <br> We will only support Python-based projects. Note that we don’t argue which language is better. We force the
+              used language due to the fairness (You can google to acquire the same resource).
+            </p>
+          </div>
         </div>
       </div>
     </div>
   </section>
+  <!-- Course Schedule -->
   <section id="course-schedule" class="course-schedule">
     <div class="container">
       <h2>Schedule</h2>
@@ -144,27 +174,28 @@
           <tr>
             <th scope="col">Week</th>
             <th scope="col">Date</th>
-            <th scope="col">Description & materials</th>
-            <th scope="col">Reading & other resources</th>
+            <th scope="col">Description</th>
+            <th scope="col">Reading</th>
           </tr>
         </thead>
         <tbody>
           <tr>
-            <th scope="row">Week 1</th>
-            <td>2/27</td>
-            <td>Markdown</td>
-            <td>Markdown</td>
+            <th data-title="Week" data-date="2/27" scope="row">Week 1</th>
+            <td data-title="Date" class="mobile--hide">2/27</td>
+            <td data-title="Description">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Laborum itaque veniam unde, consectetur, quis tempora voluptate distinctio dolore facilis vero ipsum, quisquam maxime deleniti. Autem exercitationem laudantium distinctio quia molestiae?</td>
+            <td data-title="Reading">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Qui voluptatum fuga accusantium doloremque repellendus laborum, culpa similique temporibus in illum recusandae dolores iste saepe, consectetur cumque voluptatem incidunt sunt maiores.</td>
           </tr>
           <tr>
-            <th scope="row">Week 2</th>
-            <td>3/18</td>
-            <td>Markdown</td>
-            <td>Markdown</td>
+            <th data-title="Week" data-date="3/18" scope="row">Week 2</th>
+            <td data-title="Date" class="mobile--hide">3/18</td>
+            <td data-title="Description">Markdown</td>
+            <td data-title="Reading">Markdown</td>
           </tr>
         </tbody>
       </table>
     </div>
   </section>
+  <!-- Other Course Resources -->
   <section id="course-resources" class="course-resources">
     <div class="container">
       <h2>Resources</h2>

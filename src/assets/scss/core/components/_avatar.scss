@@ -1,13 +1,19 @@
 .teachers-avatar {
   display: inline-block;
   margin: 1rem;
+  transform: translate3d(-1rem, 0, 0);
+  p {
+    text-align: center;
+  }
 }
 
-.teachers-avatar p {
-  text-align: center;
-}
-
-.avatar img {
+.avatar {
   margin: 1rem 0;
+  // padding: 5px;
+  // border: 1px solid gray;
   border-radius: 50%;
+  img {
+    border-radius: 50%;
+  }
 }
+
