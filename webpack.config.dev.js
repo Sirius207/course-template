@@ -86,6 +86,7 @@ module.exports = {
     // auto update index.html in dist folder
     new HtmlWebpackPlugin({
       template: 'index.html',
+      favicon: 'favicon.ico',
     }),
     // Enables Hot Modules Replacement
     new webpack.HotModuleReplacementPlugin(),

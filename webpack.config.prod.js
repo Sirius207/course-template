@@ -81,6 +81,7 @@ module.exports = {
     // auto update index.html in dist folder
     new HtmlWebpackPlugin({
       template: 'index.html',
+      favicon: 'favicon.ico',
     }),
     new webpack.optimize.OccurrenceOrderPlugin(),
     new UglifyJsPlugin({
