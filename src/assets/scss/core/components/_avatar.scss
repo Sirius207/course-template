@@ -16,6 +16,9 @@
   border-radius: 50%;
   img {
     border-radius: 50%;
+    opacity: 0;
+    animation: fadeIn .3s 1 ease-in;
+    animation-fill-mode: forwards;
   }
 }
 

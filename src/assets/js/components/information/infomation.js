@@ -3,11 +3,8 @@ import infoData from '../../../data/content/2018/infoData';
 function renderInfoItem(info) {
   return `
   <div class="general-time listItem col-md-6">
-    <div class="listItem-icon">
-      ${info.icon}
-    </div>
     <div class="listItem-content">
-      <h2>${info.title}</h2>
+      <h2>${info.icon}${info.title}</h2>
       <p>${info.content}
       </p>
     </div>
