@@ -3,8 +3,8 @@ A web template for courses.
 
 ## Getting Started
 
-### 1. Update Each Text Content in src/assets/data/content/2018
-### 2. Build Static Files by 'npm run build'
+1. Update Each Text/Markdown Content in src/assets/data/content/2018/
+2. Build Static Files by 'npm run build'
 
 ### Prerequisite
 - Webpack: 3.x

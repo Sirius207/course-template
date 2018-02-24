@@ -30,22 +30,20 @@ tbody {
         font-weight: 800;
       }
 
-      th:before, td:before {
+      td:before {
         display: block;
         content: attr(data-title);
         font-weight: 800;
       }
 
-      th:after {
-        content: attr(data-date);
+      th:before {
+        display: none;
       }
 
-      th:before, th:after {
+      th:after {
+        content: attr(data-date);
         display: inline-block;
         width: 30%;
-      } 
-
-      th:after {
         margin: 0 2rem;
       }
     }
