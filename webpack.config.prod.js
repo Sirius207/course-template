@@ -7,7 +7,7 @@ const UglifyJsPlugin = require('uglifyjs-webpack-plugin');
 
 const buildPath = path.resolve(__dirname, 'docs');
 const extractPlugin = new ExtractTextPlugin({
-  filename: './assets/css/app.css',
+  filename: `./assets/css/app-${Date.now()}.css`,
 });
 
 module.exports = {
@@ -21,7 +21,7 @@ module.exports = {
   },
   output: {
     path: buildPath,
-    filename: './assets/js/[name].bundle.js',
+    filename: `./assets/js/[name]-${Date.now()}.bundle.js`,
   },
   module: {
     rules: [
