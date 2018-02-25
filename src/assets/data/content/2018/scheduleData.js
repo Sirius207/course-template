@@ -58,7 +58,7 @@ Advanced Topics on Text-based Analytics
     {
       date: '4/10',
       description: `
-mid-term project presentatio`,
+mid-term project presentation`,
       reading: `[linkTest]()
       [linkTest]()`,
     },
@@ -108,7 +108,7 @@ Hierarchical Reinforcement Learning & Research Paper
       date: '5/22',
       description: `
 Game Theory / Multiagent RL & Research Paper
-- 1-hour Short Lecture: Advanced Spatial-Temporal Analytics by Cheng-Kuan.
+- 1-hour Short Lecture: Advanced Spatial-Temporal Analytics.
 - Teaching End`,
       reading: `[linkTest]()
       [linkTest]()`,
