@@ -71,7 +71,7 @@ export default {
       {
         name: 'Cheng Kuan Ou',
         image: Ou,
-        url: '#',
+        url: 'https://www.linkedin.com/in/cheng-kuan-ou-620033125/',
       },
       {
         name: 'Bo-Heng Chen',
