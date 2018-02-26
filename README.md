@@ -2,6 +2,7 @@
 A web template for courses.
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/05a9fabe29c24099a2fe/maintainability)](https://codeclimate.com/github/NetDBNCKU/dsai/maintainability)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FNetDBNCKU%2Fdsai.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FNetDBNCKU%2Fdsai?ref=badge_shield)
 
 ## 1. Getting Started
 
@@ -36,3 +37,7 @@ $ npm run build
 
 - 0.9
 - - [Init] Dynamic Content Loading
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FNetDBNCKU%2Fdsai.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FNetDBNCKU%2Fdsai?ref=badge_large)
