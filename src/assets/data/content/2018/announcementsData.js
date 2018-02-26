@@ -3,7 +3,6 @@ export default [
     date: '2/27',
     title: 'Released HW1',
     content: `
-    - Markdown
-    - Markdown 2`,
+[DSAI HW1-AutoTrading](https://paper.dropbox.com/doc/DSAI-HW1-AutoTrading-V1OFhOpBZiXEfwtF9Ebj2)`,
   },
 ];

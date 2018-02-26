@@ -57,7 +57,7 @@ export default {
   },
   info: [
     {
-      title: 'Class time & location',
+      title: 'Lecture',
       content: `Spring quarter 2018
         <br>Lecture times: Tue, 9:10-12:00pm, Feb 27 - June 26
         <br>Location: 65104`,
