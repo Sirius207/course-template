@@ -27,14 +27,14 @@ export default {
   teachers: {
     instructors: [
       {
-        name: 'Hung-Yu Kao',
-        image: Kao,
-        url: 'http://myweb.ncku.edu.tw/~hykao/',
-      },
-      {
         name: 'Kun-Ta Chuang',
         image: Chuang,
         url: 'https://cv_ktchuang.cannerapp.com/',
+      },
+      {
+        name: 'Hung-Yu Kao',
+        image: Kao,
+        url: 'http://myweb.ncku.edu.tw/~hykao/',
       },
     ],
     assistants: [
