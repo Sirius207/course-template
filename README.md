@@ -1,6 +1,8 @@
 # course-template
 A web template for courses.
 
+[![Maintainability](https://api.codeclimate.com/v1/badges/05a9fabe29c24099a2fe/maintainability)](https://codeclimate.com/github/NetDBNCKU/dsai/maintainability)
+
 ## 1. Getting Started
 
 ### 1.1 Usage
