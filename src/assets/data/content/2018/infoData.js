@@ -1,3 +1,6 @@
+import Og from '../../../media/images/ogImage.png';
+
+// Avatars
 import Kao from '../../../media/images/Kao.jpg';
 import Chuang from '../../../media/images/Chuang.jpg';
 import Jie from '../../../media/images/Jie.png';
