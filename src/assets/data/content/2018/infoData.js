@@ -79,7 +79,7 @@ export default {
         url: 'https://www.linkedin.com/in/bohengchen/',
       },
       {
-        name: 'Chien-Wei chang',
+        name: 'Chien-Wei Chang',
         image: Wei,
         url: '#',
       },
