@@ -1,8 +1,13 @@
 import Kao from '../../../media/images/Kao.jpg';
 import Chuang from '../../../media/images/Chuang.jpg';
-import Chen from '../../../media/images/Chen.jpg';
+import Jie from '../../../media/images/Jie.png';
 import Lee from '../../../media/images/Lee.png';
 import Na from '../../../media/images/Na.jpg';
+import Him from '../../../media/images/Him.jpg';
+import Ting from '../../../media/images/Ting.png';
+import Ou from '../../../media/images/Ou.jpg';
+import Bo from '../../../media/images/Bo.png';
+import Wei from '../../../media/images/Wei.jpg';
 
 export default {
   nav: [{
@@ -40,8 +45,18 @@ export default {
     assistants: [
       {
         name: 'Jie-Han Chen',
-        image: Chen,
+        image: Jie,
         url: 'https://www.linkedin.com/in/jie-han-chen-325620a3/',
+      },
+      {
+        name: 'Lo Pang Yun Ting',
+        image: Ting,
+        url: 'https://www.linkedin.com/in/lo-pang-yun-ting-5a7ab2144/',
+      },
+      {
+        name: 'Leung Lok Him',
+        image: Him,
+        url: '#',
       },
       {
         name: 'Wei Lee',
@@ -52,6 +67,21 @@ export default {
         name: 'Nana Huang',
         image: Na,
         url: 'https://www.linkedin.com/in/nana-huang-b42b70129/',
+      },
+      {
+        name: 'Cheng Kuan Ou',
+        image: Ou,
+        url: '#',
+      },
+      {
+        name: 'Bo-Heng Chen',
+        image: Bo,
+        url: 'https://www.linkedin.com/in/bohengchen/',
+      },
+      {
+        name: 'chien-wei chang',
+        image: Wei,
+        url: '#',
       },
     ],
   },
