@@ -16,10 +16,9 @@ $imageBorderColor: #dee2e6;
   width: $avatarSize;
   overflow: hidden;
   margin: 1rem 0;
-  border: 1px solid $imageBorderColor;
-  border-radius: 50%;
   img {
     width: $avatarSize;
+    border: 1px solid $imageBorderColor;
     border-radius: 50%;
     opacity: 0;
     animation: fadeIn .3s 1 ease-in;
