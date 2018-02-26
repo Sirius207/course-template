@@ -1,3 +1,9 @@
+import Kao from '../../../media/images/Kao.jpg';
+import Chuang from '../../../media/images/Chuang.jpg';
+import Chen from '../../../media/images/Chen.jpg';
+import Lee from '../../../media/images/Lee2.jpg';
+import Na from '../../../media/images/Na.jpg';
+
 export default {
   nav: [{
     name: 'Announcements',
@@ -10,7 +16,7 @@ export default {
     url: '#course-resources',
   }],
   title: 'Data Science and Artificial Intelligence Practice',
-  description: 
+  description:
     `Data Mining/Machine Learning Theory and Practice. 
     In this course, a series of DM/ML research topics will be taught. 
     Thereare some short technical lectures and short academic/industrial panel discussions. 
@@ -22,30 +28,30 @@ export default {
     instructors: [
       {
         name: 'Hung-Yu Kao',
-        image: 'http://i.pravatar.cc/120',
+        image: Kao,
         url: 'http://myweb.ncku.edu.tw/~hykao/',
       },
       {
         name: 'Kun-Ta Chuang',
-        image: 'http://i.pravatar.cc/120',
+        image: Chuang,
         url: 'https://cv_ktchuang.cannerapp.com/',
       },
     ],
     assistants: [
       {
-        name: 'Charles Xavier',
-        image: 'http://i.pravatar.cc/120',
-        url: '#',
+        name: 'Jie-Han Chen',
+        image: Chen,
+        url: 'https://www.linkedin.com/in/jie-han-chen-325620a3/',
       },
       {
-        name: 'Charles Xavier',
-        image: 'http://i.pravatar.cc/120',
-        url: '#',
+        name: 'Wei Lee',
+        image: Lee,
+        url: 'http://lee-w.github.io/',
       },
       {
-        name: 'Charles Xavier',
-        image: 'http://i.pravatar.cc/120',
-        url: '#',
+        name: 'Nana Huang',
+        image: Na,
+        url: 'https://www.linkedin.com/in/nana-huang-b42b70129/',
       },
     ],
   },
@@ -53,7 +59,7 @@ export default {
     {
       title: 'Class time & location',
       content: `Spring quarter 2018
-        <br>Lecture times: Tues, 9:10-12:00pm, Feb 27 - June 26
+        <br>Lecture times: Tue, 9:10-12:00pm, Feb 27 - June 26
         <br>Location: 65104`,
       icon: `
         <svg xmlns="http://www.w3.org/2000/svg" width="8" height="8" viewBox="0 0 8 8">
@@ -70,8 +76,8 @@ export default {
         </svg>`,
     },
     {
-      title: 'Textbooks',
-      content: 'Book1<br>Book2',
+      title: 'Textbook',
+      content: '<a href="http://incompleteideas.net/book/the-book-2nd.html">Reinforcement Learning: An Introduction, 2nd Edition</a>',
       icon: `
         <svg xmlns="http://www.w3.org/2000/svg" width="8" height="8" viewBox="0 0 8 8">
           <path d="M1 0c-.07 0-.13.01-.19.03-.39.08-.7.39-.78.78-.03.06-.03.12-.03.19v5.5c0 .83.67 1.5 1.5 1.5h5.5v-1h-5.5c-.28 0-.5-.22-.5-.5s.22-.5.5-.5h5.5v-5.5c0-.28-.22-.5-.5-.5h-.5v3l-1-1-1 1v-3h-3z" />

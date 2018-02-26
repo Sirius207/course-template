@@ -7,9 +7,7 @@ export default {
       date: '2/27',
       description: `
 Course Introduction and Basics of Supervised/Unsupervised Learning
-- 1-hour Short Lecture: sklearn
-- 1 HW assignment
-- - [HW1 - AutoTrading]()`,
+`,
       reading: `[linkTest]()
       [linkTest]()`,
     },
@@ -17,7 +15,7 @@ Course Introduction and Basics of Supervised/Unsupervised Learning
       date: '3/6',
       description: `
 Database Selected Topics, including NoSQL, Spatial DB, DB Performance
-- 1-hour Short Lecture: SPARK`,
+`,
       reading: `[linkTest]()
       [linkTest]()`,
     },
@@ -25,8 +23,7 @@ Database Selected Topics, including NoSQL, Spatial DB, DB Performance
       date: '3/13',
       description: `
 Data Mining Selected Topics, including Association Rule, Sequential Patterns, Web Mining, Spatial-Temporal Mining, Social Network Mining
-- 1-hour Panel
-- 1 HW assignment `,
+`,
       reading: `[linkTest]()
       [linkTest]()`,
     },
@@ -34,8 +31,7 @@ Data Mining Selected Topics, including Association Rule, Sequential Patterns, We
       date: '3/20',
       description: `
 Introduction to Deep Learning
-- mid-term project announcement: kaggle-based project
-- 1-hour Short Lecture: Introduction to Kaggle and kdd/cikm/IJCAI competition`,
+`,
       reading: `[linkTest]()
       [linkTest]()`,
     },
@@ -50,8 +46,7 @@ Introduction to Deep Learning
       date: '4/3',
       description: `
 Advanced Topics on Text-based Analytics
-- Industry Panel from Pixnet
-- 1 HW assignment`,
+`,
       reading: `[linkTest]()
       [linkTest]()`,
     },
@@ -66,7 +61,7 @@ mid-term project presentation`,
       date: '4/17',
       description: `
 Introduce to RL & MDP
-- final-term project category announcement (cikm/kdd competition, pixnet project, xxx)`,
+`,
       reading: `[linkTest]()
       [linkTest]()`,
     },
@@ -74,8 +69,7 @@ Introduce to RL & MDP
       date: '4/24',
       description: `
 Dynamic Programming & Monte-Carlo Method 
-- 1 HW assignment
-- 1-hour Short Lecture: CrowdSourcing Labelling`,
+`,
       reading: `[linkTest]()
       [linkTest]()`,
     },
@@ -83,7 +77,7 @@ Dynamic Programming & Monte-Carlo Method
       date: '5/1',
       description: `
 Temporal-Difference Method & Deep Q Learning
-- 1-hour Short Lecture: Real-Time Bidding `,
+`,
       reading: `[linkTest]()
       [linkTest]()`,
     },
@@ -91,8 +85,7 @@ Temporal-Difference Method & Deep Q Learning
       date: '5/8',
       description: `
 Policy Gradient & Actor Critic Algorithm
-- 1 HW assignment
-- 1-hour Short Lecture: Energy Disaggregation`,
+`,
       reading: `[linkTest]()
       [linkTest]()`,
     },
@@ -100,7 +93,7 @@ Policy Gradient & Actor Critic Algorithm
       date: '5/15',
       description: `
 Hierarchical Reinforcement Learning & Research Paper
-- AI in Computer Vision Industry`,
+`,
       reading: `[linkTest]()
       [linkTest]()`,
     },
@@ -108,15 +101,14 @@ Hierarchical Reinforcement Learning & Research Paper
       date: '5/22',
       description: `
 Game Theory / Multiagent RL & Research Paper
-- 1-hour Short Lecture: Advanced Spatial-Temporal Analytics.
-- Teaching End`,
+`,
       reading: `[linkTest]()
       [linkTest]()`,
     },
     {
       date: '5/29',
       description: `
-      Team-based paper presentation I`,
+Team-based paper presentation I`,
       reading: `[linkTest]()
       [linkTest]()`,
     },

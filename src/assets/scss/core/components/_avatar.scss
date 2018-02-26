@@ -1,4 +1,6 @@
 $avatarSize: 120px;
+$avatarSize--mobile: 80px;
+$imageBorderColor: #dee2e6;
 
 .teachers-avatar {
   display: inline-block;
@@ -10,13 +12,14 @@ $avatarSize: 120px;
 }
 
 .avatar {
-  min-height: $avatarSize;
-  min-width: $avatarSize;
+  height: $avatarSize;
+  width: $avatarSize;
+  overflow: hidden;
   margin: 1rem 0;
-  // padding: 5px;
-  // border: 1px solid gray;
+  border: 1px solid $imageBorderColor;
   border-radius: 50%;
   img {
+    width: $avatarSize;
     border-radius: 50%;
     opacity: 0;
     animation: fadeIn .3s 1 ease-in;
@@ -24,3 +27,13 @@ $avatarSize: 120px;
   }
 }
 
+@media only screen and (max-width: 414px) {
+  .avatar {
+    height: $avatarSize--mobile;
+    width: $avatarSize--mobile;
+    margin: 1rem;
+    img {
+      width: $avatarSize--mobile;
+    }
+  }
+}
