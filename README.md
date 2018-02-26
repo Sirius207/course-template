@@ -8,7 +8,7 @@ A web template for courses.
 ## 1. Getting Started
 
 ### 1.1 Usage
-1. Update each Text/Markdown content in src/assets/data/content/2018/
+1. Update each Text/Markdown content in src/assets/data/content/<year>/
 2. Build Static Files by command 'npm run build'
 3. Deploy new static website
 
