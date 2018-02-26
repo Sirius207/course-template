@@ -49,12 +49,12 @@ export default {
         url: 'https://www.linkedin.com/in/jie-han-chen-325620a3/',
       },
       {
-        name: 'Lo Pang Yun Ting',
+        name: 'Lo Pang-Yun Ting',
         image: Ting,
         url: 'https://www.linkedin.com/in/lo-pang-yun-ting-5a7ab2144/',
       },
       {
-        name: 'Leung Lok Him',
+        name: 'Lok-Him Leung ',
         image: Him,
         url: '#',
       },
@@ -64,12 +64,12 @@ export default {
         url: 'http://lee-w.github.io/',
       },
       {
-        name: 'Nana Huang',
+        name: 'Hao-Tzu Huang',
         image: Na,
         url: 'https://www.linkedin.com/in/nana-huang-b42b70129/',
       },
       {
-        name: 'Cheng Kuan Ou',
+        name: 'Cheng-Kuan Ou',
         image: Ou,
         url: 'https://www.linkedin.com/in/cheng-kuan-ou-620033125/',
       },
@@ -79,7 +79,7 @@ export default {
         url: 'https://www.linkedin.com/in/bohengchen/',
       },
       {
-        name: 'chien-wei chang',
+        name: 'Chien-Wei chang',
         image: Wei,
         url: '#',
       },
