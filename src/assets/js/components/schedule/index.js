@@ -23,7 +23,7 @@ function renderTbodyListItem(lecture, index) {
       <th data-title="Week" data-date="${lecture.date}" scope="row">Week ${index + 1}</th>
       <td data-title="Date" class="mobile--hide">${lecture.date}</td>
       <td data-title="Description">${marked(lecture.description)}</td>
-      <td data-title="Reading">${marked(lecture.reading)}</td>
+      <td data-title="Technical Lecture">${marked(lecture.reading)}</td>
     </tr>
   `;
 }

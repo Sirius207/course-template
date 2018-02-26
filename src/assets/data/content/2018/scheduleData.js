@@ -1,6 +1,6 @@
 export default {
   columnTitle: [
-    'Week', 'Date', 'Description', 'Reading',
+    'Week', 'Date', 'Description', 'Technical Lecture',
   ],
   rowData: [
     {
