@@ -1,7 +1,7 @@
 import Kao from '../../../media/images/Kao.jpg';
 import Chuang from '../../../media/images/Chuang.jpg';
 import Chen from '../../../media/images/Chen.jpg';
-import Lee from '../../../media/images/Lee2.jpg';
+import Lee from '../../../media/images/Lee.png';
 import Na from '../../../media/images/Na.jpg';
 
 export default {
