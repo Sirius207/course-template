@@ -5,7 +5,7 @@ const HtmlWebpackPlugin = require('html-webpack-plugin');
 const ExtractTextPlugin = require('extract-text-webpack-plugin');
 const UglifyJsPlugin = require('uglifyjs-webpack-plugin');
 
-const buildPath = path.resolve(__dirname, 'docs');
+const buildPath = path.resolve(__dirname, 'docs/2018');
 const extractPlugin = new ExtractTextPlugin({
   filename: './assets/css/app.css',
 });
