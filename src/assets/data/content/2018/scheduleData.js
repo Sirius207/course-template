@@ -7,6 +7,8 @@ export default {
       date: '2/27',
       description: `
 Course Introduction and Basics of Supervised/Unsupervised Learning
+- [Slide: Course Introduction](https://drive.google.com/file/d/1k9RGBtcop763nfHHlXjOe7di9E9KJysN/view?usp=sharing)
+- [Slide: Supervised Unsupervised Learning](https://drive.google.com/file/d/19BzWDB4Mx7GufStCPZp4VSRjceh3WTjR/view?usp=sharing)
 `,
       reading: `[Intro to Python Data Science Tools](https://github.com/Lee-W/Intro_to_Python_Data_Science_Tools)`,
     },
