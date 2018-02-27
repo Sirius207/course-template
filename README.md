@@ -1,10 +1,14 @@
 # course-template
 A web template for courses.
 
+[![Maintainability](https://api.codeclimate.com/v1/badges/05a9fabe29c24099a2fe/maintainability)](https://codeclimate.com/github/NetDBNCKU/dsai/maintainability)
+[![Known Vulnerabilities](https://snyk.io/test/github/NetDBNCKU/dsai/badge.svg)](https://snyk.io/test/github/NetDBNCKU/dsai)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FNetDBNCKU%2Fdsai.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FNetDBNCKU%2Fdsai?ref=badge_shield)
+
 ## 1. Getting Started
 
 ### 1.1 Usage
-1. Update each Text/Markdown content in src/assets/data/content/2018/
+1. Update each Text/Markdown content in src/assets/data/content/<year>/
 2. Build Static Files by command 'npm run build'
 3. Deploy new static website
 
@@ -34,3 +38,7 @@ $ npm run build
 
 - 0.9
 - - [Init] Dynamic Content Loading
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FNetDBNCKU%2Fdsai.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FNetDBNCKU%2Fdsai?ref=badge_large)
