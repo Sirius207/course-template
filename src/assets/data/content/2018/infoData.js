@@ -1,8 +1,16 @@
+import Og from '../../../media/images/ogImage.png';
+
+// Avatars
 import Kao from '../../../media/images/Kao.jpg';
 import Chuang from '../../../media/images/Chuang.jpg';
-import Chen from '../../../media/images/Chen.jpg';
+import Jie from '../../../media/images/Jie.png';
 import Lee from '../../../media/images/Lee.png';
 import Na from '../../../media/images/Na.jpg';
+import Him from '../../../media/images/Him.jpg';
+import Ting from '../../../media/images/Ting.png';
+import Ou from '../../../media/images/Ou.jpg';
+import Bo from '../../../media/images/Bo.png';
+import Wei from '../../../media/images/Wei.jpg';
 
 export default {
   nav: [{
@@ -19,7 +27,7 @@ export default {
   description:
     `Data Mining/Machine Learning Theory and Practice. 
     In this course, a series of DM/ML research topics will be taught. 
-    Thereare some short technical lectures and short academic/industrial panel discussions. 
+    There are some short technical lectures and short academic/industrial panel discussions. 
     We emphasize the importance of practices in this course. 
     Your brain, theoretically, is a kind of models which should be trained by lots of instances. 
     Based on the spirit of trial-and-error, we will give 5 HWs, 2 projects, one paper presentation, 
@@ -40,8 +48,18 @@ export default {
     assistants: [
       {
         name: 'Jie-Han Chen',
-        image: Chen,
+        image: Jie,
         url: 'https://www.linkedin.com/in/jie-han-chen-325620a3/',
+      },
+      {
+        name: 'Lo Pang-Yun Ting',
+        image: Ting,
+        url: 'https://www.linkedin.com/in/lo-pang-yun-ting-5a7ab2144/',
+      },
+      {
+        name: 'Lok-Him Leung ',
+        image: Him,
+        url: '#',
       },
       {
         name: 'Wei Lee',
@@ -49,9 +67,24 @@ export default {
         url: 'http://lee-w.github.io/',
       },
       {
-        name: 'Nana Huang',
+        name: 'Hao-Tzu Huang',
         image: Na,
         url: 'https://www.linkedin.com/in/nana-huang-b42b70129/',
+      },
+      {
+        name: 'Cheng-Kuan Ou',
+        image: Ou,
+        url: 'https://www.linkedin.com/in/cheng-kuan-ou-620033125/',
+      },
+      {
+        name: 'Bo-Heng Chen',
+        image: Bo,
+        url: 'https://www.linkedin.com/in/bohengchen/',
+      },
+      {
+        name: 'Chien-Wei Chang',
+        image: Wei,
+        url: '#',
       },
     ],
   },
