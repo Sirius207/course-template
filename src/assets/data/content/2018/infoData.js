@@ -1,16 +1,16 @@
 import Og from '../../../media/images/ogImage.png';
 
 // Avatars
-import Kao from '../../../media/images/Kao.jpg';
-import Chuang from '../../../media/images/Chuang.jpg';
-import Jie from '../../../media/images/Jie.png';
-import Lee from '../../../media/images/Lee.png';
-import Na from '../../../media/images/Na.jpg';
-import Him from '../../../media/images/Him.jpg';
-import Ting from '../../../media/images/Ting.png';
-import Ou from '../../../media/images/Ou.jpg';
-import Bo from '../../../media/images/Bo.png';
-import Wei from '../../../media/images/Wei.jpg';
+import Kao from '../../../media/images/kao.jpg';
+import Chuang from '../../../media/images/chuang.jpg';
+import Jie from '../../../media/images/jie.jpg';
+import Lee from '../../../media/images/lee.jpg';
+import Na from '../../../media/images/na.jpg';
+import Him from '../../../media/images/him.jpg';
+import Ting from '../../../media/images/ting.jpg';
+import Ou from '../../../media/images/ou.jpg';
+import Bo from '../../../media/images/bo.jpg';
+import Wei from '../../../media/images/wei.jpg';
 
 export default {
   nav: [{
