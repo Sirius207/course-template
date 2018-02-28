@@ -36,9 +36,15 @@ $ npm run build
 
 ## 2. Changelog
 
+- 0.9.5.2
+- - [Update]
+- - - Add Email Icon
+- - - Footer content
+- - - Schedule content
+
 - 0.9.5.1
-- [Fix]
-- - Change image name to update file cache
+- - [Fix]
+- - - Change image name to update file cache
 
 - 0.9.5
 - - [Update]

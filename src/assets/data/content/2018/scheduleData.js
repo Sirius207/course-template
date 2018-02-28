@@ -49,7 +49,7 @@ Advanced Topics on Text-based Analytics
     {
       date: '4/10',
       description: `
-mid-term project presentation`,
+Mid-term project presentation`,
       reading: ``,
     },
     {

@@ -50,6 +50,7 @@ export default {
         name: 'Jie-Han Chen',
         image: Jie,
         url: 'https://www.linkedin.com/in/jie-han-chen-325620a3/',
+        email: 'jhchen@netdb.csie.ncku.edu.tw',
       },
       {
         name: 'Lo Pang-Yun Ting',
