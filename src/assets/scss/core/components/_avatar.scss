@@ -27,6 +27,10 @@ $imageBorderColor: #dee2e6;
 }
 
 @media only screen and (max-width: 414px) {
+  .teacher-name {
+    font-size: 14px;
+  }
+
   .avatar {
     height: $avatarSize--mobile;
     width: $avatarSize--mobile;
