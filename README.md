@@ -1,5 +1,5 @@
 # course-template
-A web template for courses.
+A web template for DSAI NCKU courses.
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/05a9fabe29c24099a2fe/maintainability)](https://codeclimate.com/github/NetDBNCKU/dsai/maintainability)
 [![Known Vulnerabilities](https://snyk.io/test/github/NetDBNCKU/dsai/badge.svg)](https://snyk.io/test/github/NetDBNCKU/dsai)
@@ -35,6 +35,13 @@ $ npm run build
 ```
 
 ## 2. Changelog
+
+- 0.9.5
+- - [Update]
+- - - Add Week 1 slide
+- - - Compress avatar size to 120*120
+- - - Change font color of announcement
+- - - Change font size of avatarName in mobile version"
 
 - 0.9
 - - [Init] Dynamic Content Loading
