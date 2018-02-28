@@ -36,6 +36,10 @@ $ npm run build
 
 ## 2. Changelog
 
+- 0.9.5.1
+- [Fix]
+- - Change image name to update file cache
+
 - 0.9.5
 - - [Update]
 - - - Add Week 1 slide
