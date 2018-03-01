@@ -36,6 +36,10 @@ $ npm run build
 
 ## 2. Changelog
 
+- 0.9.5.3
+- - [Update]
+- - - Add News Icon
+
 - 0.9.5.2
 - - [Update]
 - - - Add Email Icon
