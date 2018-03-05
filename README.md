@@ -8,9 +8,10 @@ A web template for DSAI NCKU courses.
 ## 1. Getting Started
 
 ### 1.1 Usage
-1. Update each Text/Markdown content in src/assets/data/content/<year>/
-2. Build Static Files by command 'npm run build'
-3. Deploy new static website
+1. Clone & use 'npm install' to install dependencies
+2. Update each Text/Markdown content in src/assets/data/content/\<year>\/
+3. Build Static Files by command 'npm run build'
+4. Deploy new static website
 
 ### 1.2 Prerequisite
 - Webpack: 3.x
