@@ -17,7 +17,7 @@ Course Introduction and Basics of Supervised/Unsupervised Learning
       description: `
 Database Selected Topics, including NoSQL, Spatial DB, DB Performance
 `,
-      reading: ``,
+      reading: `[Introduction to Apache Spark](https://drive.google.com/open?id=1rik2fkGI9U7n_Fbu7cxIs0VvhQ7lcrm3)`,
     },
     {
       date: '3/13',
