@@ -14,8 +14,7 @@ A web template for DSAI NCKU courses.
 4. Deploy new static website
 
 ### 1.2 Prerequisite
-- Webpack: 3.x
-- webpack-dev-server: 2.x
+- Node.js: 7.6^
 - ESLint: [airbnb](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb)
 
 
