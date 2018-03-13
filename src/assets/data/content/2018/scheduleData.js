@@ -7,8 +7,8 @@ export default {
       date: '2/27',
       description: `
 Course Introduction and Basics of Supervised/Unsupervised Learning
-- [Slide: Course introduction](https://drive.google.com/file/d/1k9RGBtcop763nfHHlXjOe7di9E9KJysN/view?usp=sharing)
-- [Slide: Supervised unsupervised Learning](https://drive.google.com/file/d/19BzWDB4Mx7GufStCPZp4VSRjceh3WTjR/view?usp=sharing)
+- [Slides: Course introduction](https://drive.google.com/file/d/1k9RGBtcop763nfHHlXjOe7di9E9KJysN/view?usp=sharing)
+- [Slides: Supervised unsupervised Learning](https://drive.google.com/file/d/19BzWDB4Mx7GufStCPZp4VSRjceh3WTjR/view?usp=sharing)
 `,
       reading: `[Introduction to python data science tools](https://github.com/Lee-W/Intro_to_Python_Data_Science_Tools)`,
     },
@@ -16,8 +16,8 @@ Course Introduction and Basics of Supervised/Unsupervised Learning
       date: '3/6',
       description: `
 Database Selected Topics, including NoSQL, Spatial DB, DB Performance
-- [Slide: Advances in supervised learning](https://drive.google.com/file/d/1oZpzOnSiOeo_VNTVp8hh6nrGXY3WY0zk/view?usp=sharing)
-- [Slide: Big data](https://drive.google.com/file/d/1joUqfZm-zq3NtHBC63AkoO2qN7IxMTQd/view?usp=sharing)
+- [Slides: Advances in supervised learning](https://drive.google.com/file/d/1oZpzOnSiOeo_VNTVp8hh6nrGXY3WY0zk/view?usp=sharing)
+- [Slides: Big data](https://drive.google.com/file/d/1joUqfZm-zq3NtHBC63AkoO2qN7IxMTQd/view?usp=sharing)
 `,
       reading: `[Introduction to Apache Spark](https://drive.google.com/open?id=1rik2fkGI9U7n_Fbu7cxIs0VvhQ7lcrm3)`,
     },
@@ -25,6 +25,7 @@ Database Selected Topics, including NoSQL, Spatial DB, DB Performance
       date: '3/13',
       description: `
 Data Mining Selected Topics, including Association Rule, Sequential Patterns, Web Mining, Spatial-Temporal Mining, Social Network Mining
+- [Slides: Support Vector Machine and PageRank](https://drive.google.com/file/d/1RwJJ0cFqKEAJHkekkg3yzlfJ9xizh--L/view?usp=sharing)
 `,
       reading: ``,
     },
