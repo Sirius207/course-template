@@ -14,4 +14,12 @@ If you need to modify your previous response, login to the same Google account y
     type: 'url',
     url: 'https://paper.dropbox.com/doc/DSAI-HW1-AutoTrading-V1OFhOpBZiXEfwtF9Ebj2',
   },
+  {
+    date: '3/14',
+    title: 'Error List of HW1',
+    type: 'content',
+    content: `
+The error list is announced on moodle. If you are in the error list, please fix the bug and update your repository.
+    `
+  },
 ];
