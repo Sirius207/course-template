@@ -1,5 +1,13 @@
 export default [
   {
+    date: '3/14',
+    title: 'Error List of HW1',
+    type: 'content',
+    content: `
+The error list is announced on moodle. If you are in the error list, please fix the bug and update your repository.
+    `
+  },
+  {
     date: '3/1',
     title: 'Updated HW1 Submission',
     type: 'content',
@@ -13,13 +21,5 @@ If you need to modify your previous response, login to the same Google account y
     title: 'Released HW1',
     type: 'url',
     url: 'https://paper.dropbox.com/doc/DSAI-HW1-AutoTrading-V1OFhOpBZiXEfwtF9Ebj2',
-  },
-  {
-    date: '3/14',
-    title: 'Error List of HW1',
-    type: 'content',
-    content: `
-The error list is announced on moodle. If you are in the error list, please fix the bug and update your repository.
-    `
   },
 ];
