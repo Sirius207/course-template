@@ -1,16 +1,16 @@
 import Og from '../../../media/images/ogImage.png';
 
 // Avatars
-import Kao from '../../../media/images/Kao.jpg';
-import Chuang from '../../../media/images/Chuang.jpg';
-import Jie from '../../../media/images/Jie.png';
-import Lee from '../../../media/images/Lee.png';
-import Na from '../../../media/images/Na.jpg';
-import Him from '../../../media/images/Him.jpg';
-import Ting from '../../../media/images/Ting.png';
-import Ou from '../../../media/images/Ou.jpg';
-import Bo from '../../../media/images/Bo.png';
-import Wei from '../../../media/images/Wei.jpg';
+import Kao from '../../../media/images/kao-min.jpg';
+import Chuang from '../../../media/images/chuang-min.jpg';
+import Jie from '../../../media/images/jie-min.jpg';
+import Lee from '../../../media/images/lee-min.jpg';
+import Na from '../../../media/images/na-min.jpg';
+import Him from '../../../media/images/him-min.jpg';
+import Ting from '../../../media/images/ting-min.jpg';
+import Ou from '../../../media/images/ou-min.jpg';
+import Bo from '../../../media/images/bo-min.jpg';
+import Wei from '../../../media/images/wei-min.jpg';
 
 export default {
   nav: [{
@@ -50,6 +50,7 @@ export default {
         name: 'Jie-Han Chen',
         image: Jie,
         url: 'https://www.linkedin.com/in/jie-han-chen-325620a3/',
+        email: 'jhchen@netdb.csie.ncku.edu.tw',
       },
       {
         name: 'Lo Pang-Yun Ting',

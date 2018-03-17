@@ -6,8 +6,13 @@ $imageBorderColor: #dee2e6;
   display: inline-block;
   margin: 1rem;
   transform: translate3d(-1rem, 0, 0);
-  p {
+
+  .teacher-info {
     text-align: center;
+  }
+
+  .teacher-name {
+    display: inline-block;
   }
 }
 
@@ -27,6 +32,10 @@ $imageBorderColor: #dee2e6;
 }
 
 @media only screen and (max-width: 414px) {
+  .teacher-name p {
+    font-size: 14px;
+  }
+
   .avatar {
     height: $avatarSize--mobile;
     width: $avatarSize--mobile;

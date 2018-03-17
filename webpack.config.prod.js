@@ -85,6 +85,7 @@ module.exports = {
     new HtmlWebpackPlugin({
       template: 'index.html',
       favicon: 'favicon.ico',
+      hash: true,
     }),
     new webpack.optimize.OccurrenceOrderPlugin(),
     new UglifyJsPlugin({

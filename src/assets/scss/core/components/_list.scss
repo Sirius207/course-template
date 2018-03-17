@@ -1,3 +1,5 @@
+$linkBlue: #007bff;
+
 .listItem {
   display: flex;
 
@@ -16,6 +18,11 @@
     p {
       margin-left: 2rem;
     }
+
+    svg {
+      width: 0.8rem;
+      height: 0.8rem;
+    }
   }
 
   .listItem-content--popup {
@@ -32,6 +39,10 @@
     &:hover {
       border-bottom: 1px solid #a0a0a0;
       color: black;
+    }
+
+    .listItem-content {
+      color: $linkBlue;
     }
   }
   div {
