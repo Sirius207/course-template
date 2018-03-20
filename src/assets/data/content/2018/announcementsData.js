@@ -1,5 +1,11 @@
 export default [
   {
+    date: '3/21',
+    title: 'Released HW2',
+    type: 'url',
+    url: 'https://paper.dropbox.com/doc/DSAI-HW2-BooleanSearch-i7YXC1eALcDFnDTezvgIP',
+  },
+  {
     date: '3/20',
     title: 'Score of HW1',
     type: 'content',
