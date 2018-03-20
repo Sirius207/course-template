@@ -1,5 +1,13 @@
 export default [
   {
+    date: '3/20',
+    title: 'Score of HW1',
+    type: 'content',
+    content: `
+The score of HW1 is announced on moodle, please check it.
+    `
+  },
+  {
     date: '3/14',
     title: 'Error List of HW1',
     type: 'content',
