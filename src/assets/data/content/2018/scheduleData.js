@@ -33,12 +33,14 @@ Data Mining Selected Topics, including Association Rule, Sequential Patterns, We
       date: '3/20',
       description: `
 Introduction to Deep Learning
+- [Slides: Nature Language Processing With Deep Learning 1](https://drive.google.com/open?id=18MKIImDgEHJFU_w8zoih-QACjBxq2YLL)
 `,
-      reading: ``,
+      reading: `[Introduction to Kaggle](https://drive.google.com/open?id=10-H7DM4lFaBBkSsiFJ_e_k5XgHXPDRfk)`,
     },
     {
       date: '3/27',
       description: `Text Processing
+- [Slides: Nature Language Processing With Deep Learning 2](https://drive.google.com/open?id=14xOHMBhuUo9x6vGOXhNVSRMYSTQqrSGw)
       `,
       reading: ``,
     },
@@ -46,6 +48,7 @@ Introduction to Deep Learning
       date: '4/3',
       description: `
 Advanced Topics on Text-based Analytics
+- [Slides: Nature Language Processing With Deep Learning 3](https://drive.google.com/open?id=1Q4ChOUfxJCk1KAO_0go9sLuJGeeqM3MY)
 `,
       reading: ``,
     },
