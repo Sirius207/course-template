@@ -62,6 +62,8 @@ Mid-term project presentation`,
       date: '4/17',
       description: `
 Introduce to RL & MDP
+- [Slides: An introduction to Reinforcement Learning](https://drive.google.com/open?id=1NHUSJJNs-0wz-K9VmH515N4Y-B88rA67)
+- [Slides: Multi-armed bandit problem](https://drive.google.com/open?id=1hfBOeZf2Gfuq_Uf0_3UxiC1HTFAR5t-6)
 `,
       reading: ``,
     },
