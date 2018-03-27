@@ -64,6 +64,8 @@ Mid-term project presentation`,
 Introduce to RL & MDP
 - [Slides: An introduction to Reinforcement Learning](https://drive.google.com/open?id=1NHUSJJNs-0wz-K9VmH515N4Y-B88rA67)
 - [Slides: Multi-armed bandit problem](https://drive.google.com/open?id=1hfBOeZf2Gfuq_Uf0_3UxiC1HTFAR5t-6)
+- [Slides: Markov decision process](https://drive.google.com/file/d/12p5CbD9GONIGpLVk8jIFasFf3qY1Gvzz/view?usp=sharing)
+- [Reference of MDP](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching_files/MDP.pdf)
 `,
       reading: ``,
     },
