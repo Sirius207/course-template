@@ -1,5 +1,11 @@
 export default [
   {
+    date: '4/3',
+    title: 'Released Midterm project',
+    type: 'url',
+    url: 'https://paper.dropbox.com/doc/DSAI-MidTerm-Project-F7BPIajkkO59MyAniHQx2',
+  },
+  {
     date: '3/21',
     title: 'Released HW2',
     type: 'url',
