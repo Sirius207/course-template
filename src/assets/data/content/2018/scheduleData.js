@@ -71,44 +71,44 @@ Advanced Topics on Text-based Analytics
     {
       date: '4/24',
       description: `
-Dynamic Programming & Monte-Carlo Method 
-- [Slides: Chap4_DynamicProgramming](https://drive.google.com/open?id=1itD9R-ubLU5lLtvYOzz8evqLfzHlvRU_)
-- - [Sample Code](https://github.com/NCKU-CCS/DSAI)
-- [Slides: Chap5_MonteCarlo](https://drive.google.com/open?id=1BaWkt6KsD3kBNNvAqL97_xlYpXBJfbiY)
+MDP cont. & Dynamic Programming
+- [Slides: Dynamic Programming](https://drive.google.com/open?id=1itD9R-ubLU5lLtvYOzz8evqLfzHlvRU_)
 `,
-      reading: ``,
+      reading: `[Sample Code of DP](https://github.com/NCKU-CCS/DSAI)`,
     },
     {
       date: '5/1',
       description: `
-Mid-term project presentation`,
+Monte Carlo Method, Temporal-Difference Method & Deep Q Learning
+- [Slides: Monte Carlo method](https://drive.google.com/open?id=1BaWkt6KsD3kBNNvAqL97_xlYpXBJfbiY)
+`,
       reading: ``,
     },
     {
       date: '5/8',
       description: `
-Temporal-Difference Method & Deep Q Learning
+Mid-term presentation
 `,
       reading: ``,
     },
     {
       date: '5/15',
       description: `
-Policy Gradient & Actor Critic Algorithm
+Policy Gradient & Actor-Critic Algorithm
 `,
       reading: ``,
     },
     {
       date: '5/22',
       description: `
-Hierarchical Reinforcement Learning & Research Paper
+Transfer Learning & Hierarchical RL
 `,
       reading: ``,
     },
     {
       date: '5/29',
       description: `
-Game Theory / Multiagent RL & Research Paper
+Research papers & Open problems
 `,
       reading: ``,
     },
