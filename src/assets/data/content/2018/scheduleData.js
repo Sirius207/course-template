@@ -72,6 +72,8 @@ Advanced Topics on Text-based Analytics
       date: '4/24',
       description: `
 Dynamic Programming & Monte-Carlo Method 
+- [Slides: Chap4_DynamicProgramming](https://drive.google.com/open?id=1itD9R-ubLU5lLtvYOzz8evqLfzHlvRU_)
+- [Slides: Chap5_MonteCarlo](https://drive.google.com/open?id=1BaWkt6KsD3kBNNvAqL97_xlYpXBJfbiY)
 `,
       reading: ``,
     },
