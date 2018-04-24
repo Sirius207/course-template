@@ -1,5 +1,11 @@
 export default [
   {
+    date: '4/24',
+    title: 'HW2 program form',
+    type: 'url',
+    url: 'https://docs.google.com/forms/d/e/1FAIpQLSdHtJIoxeeFSSkRJIFPPf1TOAZuYCmA0ODJMS4HceGBKyFPaw/viewform',
+  },
+  {
     date: '4/3',
     title: 'Released Midterm project',
     type: 'url',
