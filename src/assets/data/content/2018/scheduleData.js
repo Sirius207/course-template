@@ -73,6 +73,8 @@ Advanced Topics on Text-based Analytics
       description: `
 Dynamic Programming & Monte-Carlo Method 
 - [Slides: Chap4_DynamicProgramming](https://drive.google.com/open?id=1itD9R-ubLU5lLtvYOzz8evqLfzHlvRU_)
+- - [gridworld.py](https://drive.google.com/file/d/13ICP68UO5dLIkisEsaTGHNCO7CTDohaI/view?usp=sharing)
+- - [log_grid_world](https://drive.google.com/file/d/1XV2Z9Vvesu5LAdUEs1UeV2oDcg0NRRPN/view?usp=sharing)
 - [Slides: Chap5_MonteCarlo](https://drive.google.com/open?id=1BaWkt6KsD3kBNNvAqL97_xlYpXBJfbiY)
 `,
       reading: ``,
