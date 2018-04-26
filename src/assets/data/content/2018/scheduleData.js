@@ -58,7 +58,7 @@ Introduce to RL & MDP
       description: `Text Processing
 - [Slides: Nature Language Processing With Deep Learning 2](https://drive.google.com/open?id=14xOHMBhuUo9x6vGOXhNVSRMYSTQqrSGw)
       `,
-      reading: ``,
+      reading: `[PIXNET's guest lecture](https://docs.google.com/presentation/d/1mZlnQYLPKvxpF9zAAYGwqFtJkuFT0JNGbI5jk8Gg84g/edit?usp=sharing)`,
     },
     {
       date: '4/17',
