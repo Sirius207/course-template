@@ -1,5 +1,15 @@
 export default [
   {
+    date: '4/26',
+    title: 'Midterm Project 成績相關公告',
+    type: 'content',
+    content: `
+想要請問一下，在這個 KDD midterm project 中，有同學的隊伍名稱是有改過的嗎？
+我們已經將 4/3 - 4/23 的 leaderboard 記錄都爬下來了。但是，我們在前幾天發現平台的一個 bug: 當你更改隊名的時候，leaderboard 的紀錄會重新計算。
+所以如果有同學有更改過隊伍名稱，可以直接截圖提交的紀錄給我們，因為提交的紀錄也會有分數。
+  `
+  },
+  {
     date: '4/24',
     title: 'HW2 program form',
     type: 'url',
