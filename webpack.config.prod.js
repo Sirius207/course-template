@@ -4,6 +4,7 @@ const CleanWebpackPlugin = require('clean-webpack-plugin');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 const ExtractTextPlugin = require('extract-text-webpack-plugin');
 const UglifyJsPlugin = require('uglifyjs-webpack-plugin');
+const ScriptExtHtmlWebpackPlugin = require('script-ext-html-webpack-plugin');
 
 // Build Dirname
 const YEAR = '2018';
@@ -51,6 +52,7 @@ module.exports = {
               loader: 'css-loader',
               options: {
                 sourceMap: true,
+                minimize: true,
               },
             },
             {
@@ -87,9 +89,14 @@ module.exports = {
       favicon: 'favicon.ico',
       hash: true,
     }),
+    new ScriptExtHtmlWebpackPlugin({
+      defaultAttribute: 'async',
+    }),
     new webpack.optimize.OccurrenceOrderPlugin(),
     new UglifyJsPlugin({
       sourceMap: true,
+      parallel: true,
+      cache: true,
     }),
     // Extract CSS Files From JS Bundle
     extractPlugin,
