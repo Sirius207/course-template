@@ -5,6 +5,7 @@ const HtmlWebpackPlugin = require('html-webpack-plugin');
 const ExtractTextPlugin = require('extract-text-webpack-plugin');
 const UglifyJsPlugin = require('uglifyjs-webpack-plugin');
 const ScriptExtHtmlWebpackPlugin = require('script-ext-html-webpack-plugin');
+const CssoWebpackPlugin = require('csso-webpack-plugin').default;
 
 // Build Dirname
 const YEAR = '2018';
@@ -100,5 +101,7 @@ module.exports = {
     }),
     // Extract CSS Files From JS Bundle
     extractPlugin,
+    // Minify CSS
+    new CssoWebpackPlugin(),
   ],
 };
