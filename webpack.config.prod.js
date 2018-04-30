@@ -17,7 +17,6 @@ const extractPlugin = new ExtractTextPlugin({
 
 module.exports = {
   context: path.resolve(__dirname, 'src'),
-  devtool: 'inline-source-map',
   entry: {
     // with context setup, ./src/app.js -> ./app.js
     app: './app.js',
@@ -95,13 +94,10 @@ module.exports = {
     }),
     new webpack.optimize.OccurrenceOrderPlugin(),
     new UglifyJsPlugin({
-      sourceMap: true,
       parallel: true,
       cache: true,
     }),
-    // Extract CSS Files From JS Bundle
-    extractPlugin,
-    // Minify CSS
-    new CssoWebpackPlugin(),
+    extractPlugin, // Extract CSS Files From JS Bundle
+    new CssoWebpackPlugin(), // Minify CSS
   ],
 };

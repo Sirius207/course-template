@@ -36,6 +36,11 @@ $ npm run build
 
 ## 2. Changelog
 
+- 0.9.6
+- - [Update]
+- - - Remove Webpeck souce Map
+- - - Minify Css with CssoWebpackPlugin
+
 - 0.9.5.3
 - - [Update]
 - - - Add News Icon
