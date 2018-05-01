@@ -79,7 +79,7 @@ MDP cont. & Dynamic Programming
     {
       date: '5/1',
       description: `
-Monte Carlo Method, Temporal-Difference Method & Deep Q Learning
+Monte Carlo Method
 - [Slides: Monte Carlo method](https://drive.google.com/open?id=1BaWkt6KsD3kBNNvAqL97_xlYpXBJfbiY)
 `,
       reading: ``,
@@ -94,21 +94,21 @@ Mid-term presentation
     {
       date: '5/15',
       description: `
-Policy Gradient & Actor-Critic Algorithm
+Temporal-Difference Method & Deep Q Learning
 `,
       reading: ``,
     },
     {
       date: '5/22',
       description: `
-Transfer Learning & Hierarchical RL
+Policy Gradient & Actor-Critic Algorithm
 `,
       reading: ``,
     },
     {
       date: '5/29',
       description: `
-Research papers & Open problems
+Transfer Learning in RL & research papers
 `,
       reading: ``,
     },
