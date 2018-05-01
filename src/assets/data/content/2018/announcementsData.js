@@ -1,5 +1,11 @@
 export default [
   {
+    date: '5/1',
+    title: 'Final Project',
+    type: 'url',
+    content: 'https://paper.dropbox.com/doc/DSAI-Final-Project-TEfDgf4MxJr4qDnvs08aI',
+  },
+  {
     date: '4/26',
     title: 'Midterm Project 成績相關公告',
     type: 'content',
