@@ -1,9 +1,34 @@
 export default [
   {
     date: '5/1',
-    title: 'Final Project',
-    type: 'url',
-    url: 'https://paper.dropbox.com/doc/DSAI-Final-Project-TEfDgf4MxJr4qDnvs08aI',
+    title: 'Final Project announcement & Grouping',
+    type: 'content',
+    content: `
+Final project 介紹：https://paper.dropbox.com/doc/DSAI-Final-Project-TEfDgf4MxJr4qDnvs08aI
+
+分組表單: https://goo.gl/forms/qyuQxz2hSkZoxkEz2
+
+請大家盡量在 5/8 前分完組，我們會儘早分派 Paper presentation 的論文。
+    `
+  },
+  {
+    date: '5/1',
+    title: 'HW3 announcement',
+    type: 'content',
+    content: `
+HW3 要利用 neural network 實作一個三位數的減法器，作業詳細內容在此：
+https://paper.dropbox.com/doc/DASI-HW3-Subtractor-nXPC5ipREgBy1Nw8ilh1b
+    `
+  },
+  {
+    date: '5/1',
+    title: 'HW2 Grading & testing data',
+    type: 'content',
+    content: `
+HW2 的成績請到 moodle 查看。
+我們使用的測資存放在這個 GitHub 資料夾:
+https://github.com/NCKU-CCS/DSAI-Source/tree/master/HW2
+    `
   },
   {
     date: '4/26',

@@ -4,7 +4,7 @@ import newsData from '../../../data/content/2018/announcementsData';
 
 function renderNewsContent(news) {
   return `
-    <li class="listItem" data-toggle="modal" data-target="#${news.date}-modal">
+    <li class="listItem" data-toggle="modal" data-target="#${news.title}-modal">
       <div class="listItem-index">
         ${news.date}
       </div>
@@ -16,7 +16,7 @@ function renderNewsContent(news) {
         - ${news.title}
       </div>
       <!-- Modal -->
-      <div class="modal fade" id="${news.date}-modal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+      <div class="modal fade" id="${news.title}-modal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
         <div class="modal-dialog" role="document">
           <div class="modal-content">
             <div class="modal-header">
