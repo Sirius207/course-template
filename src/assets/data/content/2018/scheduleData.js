@@ -33,96 +33,105 @@ Data Mining Selected Topics, including Association Rule, Sequential Patterns, We
       date: '3/20',
       description: `
 Introduction to Deep Learning
+- [Slides: Nature Language Processing With Deep Learning 1](https://drive.google.com/open?id=18MKIImDgEHJFU_w8zoih-QACjBxq2YLL)
 `,
-      reading: ``,
+      reading: `[Introduction to Kaggle](https://drive.google.com/open?id=10-H7DM4lFaBBkSsiFJ_e_k5XgHXPDRfk)`,
     },
     {
       date: '3/27',
-      description: `Text Processing
-      `,
+      description: `
+Introduce to RL & MDP
+- [Slides: An introduction to Reinforcement Learning](https://drive.google.com/open?id=1NHUSJJNs-0wz-K9VmH515N4Y-B88rA67)
+- [Slides: Multi-armed bandit problem](https://drive.google.com/open?id=1hfBOeZf2Gfuq_Uf0_3UxiC1HTFAR5t-6)
+- [Slides: Markov decision process](https://drive.google.com/file/d/12p5CbD9GONIGpLVk8jIFasFf3qY1Gvzz/view?usp=sharing)
+- [Reference of MDP](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching_files/MDP.pdf)
+`,
       reading: ``,
     },
     {
       date: '4/3',
-      description: `
-Advanced Topics on Text-based Analytics
-`,
+      description: `Spring break`,
       reading: ``,
     },
     {
       date: '4/10',
-      description: `
-Mid-term project presentation`,
-      reading: ``,
+      description: `Text Processing
+- [Slides: Nature Language Processing With Deep Learning 2](https://drive.google.com/open?id=14xOHMBhuUo9x6vGOXhNVSRMYSTQqrSGw)
+      `,
+      reading: `[PIXNET's guest lecture](https://docs.google.com/presentation/d/1mZlnQYLPKvxpF9zAAYGwqFtJkuFT0JNGbI5jk8Gg84g/edit?usp=sharing)`,
     },
     {
       date: '4/17',
       description: `
-Introduce to RL & MDP
+Advanced Topics on Text-based Analytics
+- [Slides: Nature Language Processing With Deep Learning 3](https://drive.google.com/open?id=1Q4ChOUfxJCk1KAO_0go9sLuJGeeqM3MY)
 `,
       reading: ``,
     },
     {
       date: '4/24',
       description: `
-Dynamic Programming & Monte-Carlo Method 
+MDP cont. & Dynamic Programming
+- [Slides: Dynamic Programming](https://drive.google.com/open?id=1itD9R-ubLU5lLtvYOzz8evqLfzHlvRU_)
 `,
-      reading: ``,
+      reading: `[Sample Code of DP](https://github.com/NCKU-CCS/DSAI)`,
     },
     {
       date: '5/1',
       description: `
-Temporal-Difference Method & Deep Q Learning
+Monte Carlo Method
+- [Slides: Monte Carlo method](https://drive.google.com/open?id=1BaWkt6KsD3kBNNvAqL97_xlYpXBJfbiY)
 `,
       reading: ``,
     },
     {
       date: '5/8',
       description: `
-Policy Gradient & Actor Critic Algorithm
+Mid-term presentation
 `,
       reading: ``,
     },
     {
       date: '5/15',
       description: `
-Hierarchical Reinforcement Learning & Research Paper
+Temporal-Difference Method & Deep Q Learning
 `,
       reading: ``,
     },
     {
       date: '5/22',
       description: `
-Game Theory / Multiagent RL & Research Paper
+Policy Gradient & Actor-Critic Algorithm
 `,
       reading: ``,
     },
     {
       date: '5/29',
       description: `
-Team-based paper presentation I`,
+Transfer Learning in RL & research papers
+`,
       reading: ``,
     },
     {
       date: '6/5',
       description: `
-Team-based paper presentation II`,
+Team-based paper presentation I`,
       reading: ``,
     },
     {
       date: '6/12',
       description: `
-Team-based paper presentation III`,
+Team-based paper presentation II`,
       reading: ``,
     },
     {
       date: '6/19',
-      description: `Project Presentation I`,
+      description: `Final Project Presentation I`,
       reading: ``,
     },
     {
       date: '6/26',
-      description: `Project Presentation II`,
+      description: `Final Project Presentation II`,
       reading: ``,
     },
   ],
