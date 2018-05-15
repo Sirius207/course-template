@@ -95,6 +95,7 @@ Mid-term presentation
       date: '5/15',
       description: `
 Temporal-Difference Method & Deep Q Learning
+- [Slides: TD learning](https://drive.google.com/file/d/1qMtmvvhNM6ETAjSczUHoiGKRqsmXiXyU/view?usp=sharing)
 `,
       reading: ``,
     },
