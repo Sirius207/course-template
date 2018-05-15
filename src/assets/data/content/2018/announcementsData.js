@@ -1,5 +1,35 @@
 export default [
   {
+    date: '5/15',
+    title: 'Paper List',
+    type: 'url',
+    url:`
+    https://docs.google.com/spreadsheets/d/1zTeIQe10pjMNHXLDrpxv0Gg34FdepxmI1mmV56n7oGc/edit?usp=sharing
+    `
+  },
+  {
+    date: '5/15',
+    title: '論文報告相關資訊已公布在 Moodle',
+    type: 'content',
+    content:`
+    請前往 Moodle 查看
+    `
+  },
+  {
+    date: '5/15',
+    title: 'Midterm Project 成績公布',
+    type: 'content',
+    content: '請詳見 moodle'
+  },
+  {
+    date: '5/15',
+    title: 'Released HW4',
+    type: 'url',
+    url: `
+    https://paper.dropbox.com/doc/DSAI-HW4-Classic-control-in-reinforcement-learning-FcFjLnyqd2Ioa8SmqIo4e
+    `
+  },
+  {
     date: '5/1',
     title: 'Final Project announcement & Grouping',
     type: 'content',
@@ -13,7 +43,7 @@ Final project 介紹：https://paper.dropbox.com/doc/DSAI-Final-Project-TEfDgf4M
   },
   {
     date: '5/1',
-    title: 'HW3 announcement',
+    title: 'Released HW3',
     type: 'content',
     content: `
 HW3 要利用 neural network 實作一個三位數的減法器，作業詳細內容在此：
