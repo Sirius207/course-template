@@ -1,5 +1,13 @@
 export default [
   {
+    date: '5/21',
+    title: 'NOTICE: 尚未分組的同學',
+    type: 'content',
+    content: `尚未分組的同學請盡快提交分組表單，我們在上週已經公布所有分組的情況以及要報告的論文。
+    如果你到時候沒有分到組，沒有報到 Paper，沒有安排時間報告 Final project，最後沒有成績請自行負責。
+    `
+  },
+  {
     date: '5/15',
     title: 'Paper List',
     type: 'url',
