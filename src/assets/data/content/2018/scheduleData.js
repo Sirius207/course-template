@@ -94,7 +94,7 @@ Mid-term presentation
     {
       date: '5/15',
       description: `
-Temporal-Difference Method & Deep Q Learning
+Temporal-Difference learning
 - [Slides: TD learning](https://drive.google.com/file/d/1qMtmvvhNM6ETAjSczUHoiGKRqsmXiXyU/view?usp=sharing)
 `,
       reading: ``,
@@ -102,14 +102,16 @@ Temporal-Difference Method & Deep Q Learning
     {
       date: '5/22',
       description: `
-Policy Gradient & Actor-Critic Algorithm
+Deep Q Network & Policy Gradient
+- [Slides: Deep Q Network](https://drive.google.com/file/d/10GRXQaiNRNBkUf5NLdLL0vhlVmluCXK6/view?usp=sharing)
+- [Slides: Policy Gradient](https://drive.google.com/file/d/1w1Guhe3ItIwgEhQOP0Bsyav-2mI_I_XW/view?usp=sharing)
 `,
       reading: ``,
     },
     {
       date: '5/29',
       description: `
-Transfer Learning in RL & research papers
+Actor-Critic algorithm & open questions
 `,
       reading: ``,
     },
