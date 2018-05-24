@@ -1,5 +1,11 @@
 export default [
   {
+    date: '5/24',
+    title: '公布 Paper presentation 順序',
+    type: 'content',
+    content: `詳見 Moodle`
+  },  
+  {
     date: '5/21',
     title: 'NOTICE: 尚未分組的同學',
     type: 'content',
