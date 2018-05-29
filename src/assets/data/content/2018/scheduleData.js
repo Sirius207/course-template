@@ -111,9 +111,11 @@ Deep Q Network & Policy Gradient
     {
       date: '5/29',
       description: `
-Actor-Critic algorithm & open questions
+Actor-Critic algorithm & Research papers
+- [Actor-Critic algorithm](https://drive.google.com/file/d/1r-IlUrSyjoOPh-xRxmF0ysBnxUUyIbce/view?usp=sharing)
+- [Frontiers in RL](https://drive.google.com/file/d/1by4JlxUBgCXhii3LEjFP7DTSU6lYDILV/view?usp=sharing)
 `,
-      reading: ``,
+      reading: `[Crowdsourcing Labeling](https://drive.google.com/file/d/10jX5jJlcU8n3xsmBqrZ-qZloCiKZZDq0/view?usp=sharing)`,
     },
     {
       date: '6/5',
