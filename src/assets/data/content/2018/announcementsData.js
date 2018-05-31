@@ -1,5 +1,19 @@
 export default [
   {
+    date: '5/31',
+    title: 'Final presentation 順序',
+    type: 'url',
+    url:`
+    https://docs.google.com/spreadsheets/d/1NP4Rd-mIDk1cRJbxpEbKn8zIA__oGZs4_ya01w-NpoE/edit?usp=sharing
+    `
+  },
+  {
+    date: '5/31',
+    title:'公布 HW3 成績，詳見 Moodle',
+    type: 'content',
+    content: '請見 moodle'
+  },
+  {
     date: '5/24',
     title: '公布 Paper presentation 順序',
     type: 'content',
