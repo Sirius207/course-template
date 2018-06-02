@@ -1,5 +1,13 @@
 export default [
   {
+    date: '6/3',
+    title: 'Paper presentation 順序微調',
+    type: 'content',
+    content: `
+    詳情請見 Moodle
+    `
+  },
+  {
     date: '5/31',
     title: 'Final presentation 順序',
     type: 'url',
