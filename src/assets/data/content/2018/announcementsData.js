@@ -1,5 +1,21 @@
 export default [
   {
+    date: '6/15',
+    title: '[重要] Final Project & Presentation 調整事項',
+    type: 'content',
+    content: `
+    請詳見 Moodle
+    `
+  },
+  {
+    date: '6/15',
+    title: 'HW4 成績公布',
+    type: 'content',
+    content: `
+    請詳見 Moodle
+    `
+  },
+  {
     date: '6/3',
     title: 'Paper presentation 順序微調',
     type: 'content',
