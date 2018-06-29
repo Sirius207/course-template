@@ -92,7 +92,7 @@ export default {
     {
       title: 'Lecture',
       content: `Spring 2018
-        <br>Lecture times: Tue, 9:10-12:00pm, Feb 27 - June 26
+        <br>Lecture time: Tue, 9:10-12:00pm, Feb 27 - June 26
         <br>Class room: 65104`,
       icon: `
         <svg xmlns="http://www.w3.org/2000/svg" width="8" height="8" viewBox="0 0 8 8">
