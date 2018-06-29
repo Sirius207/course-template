@@ -1,18 +1,26 @@
 export default [
   {
-    date: '6/15',
-    title: '[重要] Final Project & Presentation 調整事項',
-    type: 'content',
-    content: `
-    請詳見 Moodle
+    date: '6/29',
+    title: 'Paper presentation & Final presentation 成績公布於 Moodle',
+    type: 'url',
+    url: `
+    http://moodle.ncku.edu.tw/mod/forum/discuss.php?d=336198
     `
   },
   {
     date: '6/15',
-    title: 'HW4 成績公布',
-    type: 'content',
+    title: '[重要] Final Project & Presentation 調整事項',
+    type: 'url',
     content: `
-    請詳見 Moodle
+    請詳見 Moodle 公告
+    `
+  },
+  {
+    date: '6/15',
+    title: 'HW4 成績公布於 Moodle',
+    type: 'url',
+    url: `
+    http://moodle.ncku.edu.tw/mod/forum/discuss.php?d=333495 
     `
   },
   {
@@ -20,7 +28,7 @@ export default [
     title: 'Paper presentation 順序微調',
     type: 'content',
     content: `
-    詳情請見 Moodle
+    請詳見 Moodle 公告
     `
   },
   {
