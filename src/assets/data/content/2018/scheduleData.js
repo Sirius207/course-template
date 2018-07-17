@@ -94,23 +94,28 @@ Mid-term presentation
     {
       date: '5/15',
       description: `
-Temporal-Difference Method & Deep Q Learning
+Temporal-Difference learning
+- [Slides: TD learning](https://drive.google.com/file/d/1qMtmvvhNM6ETAjSczUHoiGKRqsmXiXyU/view?usp=sharing)
 `,
       reading: ``,
     },
     {
       date: '5/22',
       description: `
-Policy Gradient & Actor-Critic Algorithm
+Deep Q Network & Policy Gradient
+- [Slides: Deep Q Network](https://drive.google.com/file/d/10GRXQaiNRNBkUf5NLdLL0vhlVmluCXK6/view?usp=sharing)
+- [Slides: Policy Gradient](https://drive.google.com/file/d/1w1Guhe3ItIwgEhQOP0Bsyav-2mI_I_XW/view?usp=sharing)
 `,
       reading: ``,
     },
     {
       date: '5/29',
       description: `
-Transfer Learning in RL & research papers
+Actor-Critic algorithm & Research papers
+- [Slides: Actor-Critic algorithm](https://drive.google.com/file/d/1r-IlUrSyjoOPh-xRxmF0ysBnxUUyIbce/view?usp=sharing)
+- [Slides: Frontiers in RL](https://drive.google.com/file/d/1by4JlxUBgCXhii3LEjFP7DTSU6lYDILV/view?usp=sharing)
 `,
-      reading: ``,
+      reading: `[Crowdsourcing Labeling](https://drive.google.com/file/d/10jX5jJlcU8n3xsmBqrZ-qZloCiKZZDq0/view?usp=sharing)`,
     },
     {
       date: '6/5',

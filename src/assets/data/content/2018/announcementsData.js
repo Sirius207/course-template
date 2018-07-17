@@ -1,5 +1,95 @@
 export default [
   {
+    date: '6/29',
+    title: 'Paper presentation & Final presentation 成績公布於 Moodle',
+    type: 'url',
+    url: `
+    http://moodle.ncku.edu.tw/mod/forum/discuss.php?d=336198
+    `
+  },
+  {
+    date: '6/15',
+    title: '[重要] Final Project & Presentation 調整事項',
+    type: 'url',
+    content: `
+    請詳見 Moodle 公告
+    `
+  },
+  {
+    date: '6/15',
+    title: 'HW4 成績公布於 Moodle',
+    type: 'url',
+    url: `
+    http://moodle.ncku.edu.tw/mod/forum/discuss.php?d=333495 
+    `
+  },
+  {
+    date: '6/3',
+    title: 'Paper presentation 順序微調',
+    type: 'content',
+    content: `
+    請詳見 Moodle 公告
+    `
+  },
+  {
+    date: '5/31',
+    title: 'Final presentation 順序',
+    type: 'url',
+    url:`
+    https://docs.google.com/spreadsheets/d/1NP4Rd-mIDk1cRJbxpEbKn8zIA__oGZs4_ya01w-NpoE/edit?usp=sharing
+    `
+  },
+  {
+    date: '5/31',
+    title:'公布 HW3 成績，詳見 Moodle',
+    type: 'content',
+    content: '請見 moodle'
+  },
+  {
+    date: '5/24',
+    title: '公布 Paper presentation 順序',
+    type: 'content',
+    content: `詳見 Moodle`
+  },  
+  {
+    date: '5/21',
+    title: 'NOTICE: 尚未分組的同學',
+    type: 'content',
+    content: `尚未分組的同學請盡快提交分組表單，我們在上週已經公布所有分組的情況以及要報告的論文。
+    如果你到時候沒有分到組，沒有報到 Paper，沒有安排時間報告 Final project，最後沒有成績請自行負責。
+    `
+  },
+  {
+    date: '5/15',
+    title: 'Paper List',
+    type: 'url',
+    url:`
+    https://docs.google.com/spreadsheets/d/1zTeIQe10pjMNHXLDrpxv0Gg34FdepxmI1mmV56n7oGc/edit?usp=sharing
+    `
+  },
+  {
+    date: '5/15',
+    title: '論文報告相關資訊已公布在 Moodle',
+    type: 'content',
+    content:`
+    請前往 Moodle 查看
+    `
+  },
+  {
+    date: '5/15',
+    title: 'Midterm Project 成績公布',
+    type: 'content',
+    content: '請詳見 moodle'
+  },
+  {
+    date: '5/15',
+    title: 'Released HW4',
+    type: 'url',
+    url: `
+    https://paper.dropbox.com/doc/DSAI-HW4-Classic-control-in-reinforcement-learning-FcFjLnyqd2Ioa8SmqIo4e
+    `
+  },
+  {
     date: '5/1',
     title: 'Final Project announcement & Grouping',
     type: 'content',
@@ -13,7 +103,7 @@ Final project 介紹：https://paper.dropbox.com/doc/DSAI-Final-Project-TEfDgf4M
   },
   {
     date: '5/1',
-    title: 'HW3 announcement',
+    title: 'Released HW3',
     type: 'content',
     content: `
 HW3 要利用 neural network 實作一個三位數的減法器，作業詳細內容在此：
