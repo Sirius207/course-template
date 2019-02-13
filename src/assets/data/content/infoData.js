@@ -3,14 +3,11 @@ import Og from '../../media/images/ogImage.png';
 // Avatars
 import Kao from '../../media/images/kao-min.jpg';
 import Chuang from '../../media/images/chuang-min.jpg';
-import Jie from '../../media/images/jie-min.jpg';
 import Lee from '../../media/images/lee-min.jpg';
-import Na from '../../media/images/na-min.jpg';
 import Him from '../../media/images/him-min.jpg';
 import Ting from '../../media/images/ting-min.jpg';
 import Ou from '../../media/images/ou-min.jpg';
 import Bo from '../../media/images/bo-min.jpg';
-import Wei from '../../media/images/wei-min.jpg';
 
 export default {
   nav: [{
@@ -46,12 +43,6 @@ export default {
     ],
     assistants: [
       {
-        name: 'Jie-Han Chen',
-        image: Jie,
-        url: 'https://www.linkedin.com/in/jie-han-chen-325620a3/',
-        email: 'jhchen@netdb.csie.ncku.edu.tw',
-      },
-      {
         name: 'Lo Pang-Yun Ting',
         image: Ting,
         url: 'https://www.linkedin.com/in/lo-pang-yun-ting-5a7ab2144/',
@@ -67,11 +58,6 @@ export default {
         url: 'http://lee-w.github.io/',
       },
       {
-        name: 'Hao-Tzu Huang',
-        image: Na,
-        url: 'https://www.linkedin.com/in/nana-huang-b42b70129/',
-      },
-      {
         name: 'Cheng-Kuan Ou',
         image: Ou,
         url: 'https://www.linkedin.com/in/cheng-kuan-ou-620033125/',
@@ -81,17 +67,12 @@ export default {
         image: Bo,
         url: 'https://www.linkedin.com/in/bohengchen/',
       },
-      {
-        name: 'Chien-Wei Chang',
-        image: Wei,
-        url: '#',
-      },
     ],
   },
   info: [
     {
       title: 'Lecture',
-      content: `Spring 2018
+      content: `Spring 2019
         <br>Lecture time: Tue, 9:10-12:00pm, Feb 27 - June 26
         <br>Class room: 65104`,
       icon: `
