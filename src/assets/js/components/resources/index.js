@@ -1,5 +1,5 @@
 import marked from 'marked';
-import resourcesData from '../../../data/content/2018/resourcesData';
+import resourcesData from '../../../data/content/resourcesData';
 
 
 function renderResources(resources) {

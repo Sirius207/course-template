@@ -1,5 +1,5 @@
 import marked from 'marked';
-import scheduleData from '../../../data/content/2018/scheduleData';
+import scheduleData from '../../../data/content/scheduleData';
 
 /* *
  * Thead List
