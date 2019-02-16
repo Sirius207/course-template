@@ -3,11 +3,9 @@ import Og from '../../media/images/ogImage.png';
 // Avatars
 import Kao from '../../media/images/kao-min.jpg';
 import Chuang from '../../media/images/chuang-min.jpg';
-import Lee from '../../media/images/lee-min.jpg';
 import Him from '../../media/images/him-min.jpg';
 import Ting from '../../media/images/ting-min.jpg';
 import Ou from '../../media/images/ou-min.jpg';
-import Bo from '../../media/images/bo-min.jpg';
 
 export default {
   nav: [{
@@ -53,19 +51,9 @@ export default {
         url: '#',
       },
       {
-        name: 'Wei Lee',
-        image: Lee,
-        url: 'http://lee-w.github.io/',
-      },
-      {
         name: 'Cheng-Kuan Ou',
         image: Ou,
         url: 'https://www.linkedin.com/in/cheng-kuan-ou-620033125/',
-      },
-      {
-        name: 'Bo-Heng Chen',
-        image: Bo,
-        url: 'https://www.linkedin.com/in/bohengchen/',
       },
     ],
   },
@@ -73,7 +61,7 @@ export default {
     {
       title: 'Lecture',
       content: `Spring 2019
-        <br>Lecture time: Tue, 9:10-12:00pm, Feb 27 - June 26
+        <br>Lecture time: Tue, 9:10-12:00pm, Feb 19 - June 26
         <br>Class room: 65104`,
       icon: `
         <svg xmlns="http://www.w3.org/2000/svg" width="8" height="8" viewBox="0 0 8 8">

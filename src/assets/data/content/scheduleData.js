@@ -4,7 +4,7 @@ export default {
   ],
   rowData: [
     {
-      date: '2/27',
+      date: '2/19',
       description: `
 Course Introduction and Basics of Supervised/Unsupervised Learning
 - [Slides: Course introduction](https://drive.google.com/file/d/1k9RGBtcop763nfHHlXjOe7di9E9KJysN/view?usp=sharing)
@@ -13,7 +13,7 @@ Course Introduction and Basics of Supervised/Unsupervised Learning
       reading: `[Introduction to python data science tools](https://github.com/Lee-W/Intro_to_Python_Data_Science_Tools)`,
     },
     {
-      date: '3/6',
+      date: '2/26',
       description: `
 Database Selected Topics, including NoSQL, Spatial DB, DB Performance
 - [Slides: Advances in supervised learning](https://drive.google.com/file/d/1oZpzOnSiOeo_VNTVp8hh6nrGXY3WY0zk/view?usp=sharing)
@@ -22,7 +22,7 @@ Database Selected Topics, including NoSQL, Spatial DB, DB Performance
       reading: `[Introduction to Apache Spark](https://drive.google.com/open?id=1rik2fkGI9U7n_Fbu7cxIs0VvhQ7lcrm3)`,
     },
     {
-      date: '3/13',
+      date: '3/5',
       description: `
 Data Mining Selected Topics, including Association Rule, Sequential Patterns, Web Mining, Spatial-Temporal Mining, Social Network Mining
 - [Slides: Support Vector Machine and PageRank](https://drive.google.com/file/d/1RwJJ0cFqKEAJHkekkg3yzlfJ9xizh--L/view?usp=sharing)
@@ -30,7 +30,7 @@ Data Mining Selected Topics, including Association Rule, Sequential Patterns, We
       reading: ``,
     },
     {
-      date: '3/20',
+      date: '3/12',
       description: `
 Introduction to Deep Learning
 - [Slides: Nature Language Processing With Deep Learning 1](https://drive.google.com/open?id=18MKIImDgEHJFU_w8zoih-QACjBxq2YLL)
@@ -38,7 +38,7 @@ Introduction to Deep Learning
       reading: `[Introduction to Kaggle](https://drive.google.com/open?id=10-H7DM4lFaBBkSsiFJ_e_k5XgHXPDRfk)`,
     },
     {
-      date: '3/27',
+      date: '3/19',
       description: `
 Introduce to RL & MDP
 - [Slides: An introduction to Reinforcement Learning](https://drive.google.com/open?id=1NHUSJJNs-0wz-K9VmH515N4Y-B88rA67)
@@ -49,19 +49,19 @@ Introduce to RL & MDP
       reading: ``,
     },
     {
-      date: '4/3',
+      date: '3/26',
       description: `Spring break`,
       reading: ``,
     },
     {
-      date: '4/10',
+      date: '4/2',
       description: `Text Processing
 - [Slides: Nature Language Processing With Deep Learning 2](https://drive.google.com/open?id=14xOHMBhuUo9x6vGOXhNVSRMYSTQqrSGw)
       `,
       reading: `[PIXNET's guest lecture](https://docs.google.com/presentation/d/1mZlnQYLPKvxpF9zAAYGwqFtJkuFT0JNGbI5jk8Gg84g/edit?usp=sharing)`,
     },
     {
-      date: '4/17',
+      date: '4/9',
       description: `
 Advanced Topics on Text-based Analytics
 - [Slides: Nature Language Processing With Deep Learning 3](https://drive.google.com/open?id=1Q4ChOUfxJCk1KAO_0go9sLuJGeeqM3MY)
@@ -69,7 +69,7 @@ Advanced Topics on Text-based Analytics
       reading: ``,
     },
     {
-      date: '4/24',
+      date: '4/16',
       description: `
 MDP cont. & Dynamic Programming
 - [Slides: Dynamic Programming](https://drive.google.com/open?id=1itD9R-ubLU5lLtvYOzz8evqLfzHlvRU_)
@@ -77,7 +77,7 @@ MDP cont. & Dynamic Programming
       reading: `[Sample Code of DP](https://github.com/NCKU-CCS/DSAI)`,
     },
     {
-      date: '5/1',
+      date: '4/23',
       description: `
 Monte Carlo Method
 - [Slides: Monte Carlo method](https://drive.google.com/open?id=1BaWkt6KsD3kBNNvAqL97_xlYpXBJfbiY)
@@ -85,14 +85,14 @@ Monte Carlo Method
       reading: ``,
     },
     {
-      date: '5/8',
+      date: '4/30',
       description: `
 Mid-term presentation
 `,
       reading: ``,
     },
     {
-      date: '5/15',
+      date: '5/7',
       description: `
 Temporal-Difference learning
 - [Slides: TD learning](https://drive.google.com/file/d/1qMtmvvhNM6ETAjSczUHoiGKRqsmXiXyU/view?usp=sharing)
@@ -100,7 +100,7 @@ Temporal-Difference learning
       reading: ``,
     },
     {
-      date: '5/22',
+      date: '5/14',
       description: `
 Deep Q Network & Policy Gradient
 - [Slides: Deep Q Network](https://drive.google.com/file/d/10GRXQaiNRNBkUf5NLdLL0vhlVmluCXK6/view?usp=sharing)
@@ -109,7 +109,7 @@ Deep Q Network & Policy Gradient
       reading: ``,
     },
     {
-      date: '5/29',
+      date: '5/21',
       description: `
 Actor-Critic algorithm & Research papers
 - [Slides: Actor-Critic algorithm](https://drive.google.com/file/d/1r-IlUrSyjoOPh-xRxmF0ysBnxUUyIbce/view?usp=sharing)
@@ -118,24 +118,24 @@ Actor-Critic algorithm & Research papers
       reading: `[Crowdsourcing Labeling](https://drive.google.com/file/d/10jX5jJlcU8n3xsmBqrZ-qZloCiKZZDq0/view?usp=sharing)`,
     },
     {
-      date: '6/5',
+      date: '5/28',
       description: `
 Team-based paper presentation I`,
       reading: ``,
     },
     {
-      date: '6/12',
+      date: '6/4',
       description: `
 Team-based paper presentation II`,
       reading: ``,
     },
     {
-      date: '6/19',
+      date: '6/11',
       description: `Final Project Presentation I`,
       reading: ``,
     },
     {
-      date: '6/26',
+      date: '6/18',
       description: `Final Project Presentation II`,
       reading: ``,
     },
