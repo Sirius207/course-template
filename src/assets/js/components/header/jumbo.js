@@ -1,4 +1,4 @@
-import infoData from '../../../data/content/2018/infoData';
+import infoData from '../../../data/content/infoData';
 
 
 function renderJumbo(info) {
@@ -6,7 +6,7 @@ function renderJumbo(info) {
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <h1 class="text-title">${info.title}</h1>
-      <h2>Spring 2018, National Cheng Kung University</h2>
+      <h2>Spring ${new Date().getFullYear()}, National Cheng Kung University</h2>
       <p class="text-description">${info.description}</p>
     </div>
   </div>

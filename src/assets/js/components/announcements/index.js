@@ -1,5 +1,5 @@
 import marked from 'marked';
-import newsData from '../../../data/content/2018/announcementsData';
+import newsData from '../../../data/content/announcementsData';
 
 
 function renderNewsContent(news) {

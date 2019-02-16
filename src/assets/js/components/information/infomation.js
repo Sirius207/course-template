@@ -1,4 +1,4 @@
-import infoData from '../../../data/content/2018/infoData';
+import infoData from '../../../data/content/infoData';
 
 function renderInfoItem(info) {
   return `

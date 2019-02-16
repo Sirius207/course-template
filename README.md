@@ -9,7 +9,7 @@ A web template for DSAI NCKU courses.
 
 ### 1.1 Usage
 1. Clone & use 'npm install' to install dependencies
-2. Update each Text/Markdown content in src/assets/data/content/\<year>\/
+2. Update each Text/Markdown content in src/assets/data/content/
 3. Build Static Files by command 'npm run build'
 4. Deploy new static website
 
@@ -36,9 +36,15 @@ $ npm run build
 
 ## 2. Changelog
 
+- 0.9.6.5
+- - [Add]
+- - - Create config file for webpack build path
+- - [Update]
+- - - Change data file path
+
 - 0.9.6
 - - [Update]
-- - - Remove Webpeck souce Map
+- - - Remove Webpack source Map
 - - - Minify Css with CssoWebpackPlugin
 
 - 0.9.5.3

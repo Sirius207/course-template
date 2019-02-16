@@ -7,8 +7,11 @@ const UglifyJsPlugin = require('uglifyjs-webpack-plugin');
 const ScriptExtHtmlWebpackPlugin = require('script-ext-html-webpack-plugin');
 const CssoWebpackPlugin = require('csso-webpack-plugin').default;
 
+// Load setting
+const CONFIG = require('./config.json');
+
 // Build Dirname
-const YEAR = '2018';
+const YEAR = CONFIG.year;
 
 const buildPath = path.resolve(__dirname, `docs/${YEAR}`);
 const extractPlugin = new ExtractTextPlugin({
