@@ -6,6 +6,7 @@ import Chuang from '../../media/images/chuang-min.jpg';
 import Him from '../../media/images/him-min.jpg';
 import Ting from '../../media/images/ting-min.jpg';
 import Ou from '../../media/images/ou-min.jpg';
+import Po from '../../media/images/po-min.jpg';
 
 export default {
   nav: [{
@@ -54,6 +55,11 @@ export default {
         name: 'Cheng-Kuan Ou',
         image: Ou,
         url: 'https://www.linkedin.com/in/cheng-kuan-ou-620033125/',
+      },
+      {
+        name: 'Po-Chun Lu',
+        image: Po,
+        url: 'https://www.linkedin.com/in/po-chun-lu-68084893/',
       },
     ],
   },
