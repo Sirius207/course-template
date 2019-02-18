@@ -4,8 +4,6 @@ import Og from '../../media/images/ogImage.png';
 import Kao from '../../media/images/kao-min.jpg';
 import Chuang from '../../media/images/chuang-min.jpg';
 import Him from '../../media/images/him-min.jpg';
-import Ting from '../../media/images/ting-min.jpg';
-import Ou from '../../media/images/ou-min.jpg';
 import Po from '../../media/images/po-min.jpg';
 
 export default {
@@ -42,19 +40,9 @@ export default {
     ],
     assistants: [
       {
-        name: 'Lo Pang-Yun Ting',
-        image: Ting,
-        url: 'https://www.linkedin.com/in/lo-pang-yun-ting-5a7ab2144/',
-      },
-      {
         name: 'Lok-Him Leung ',
         image: Him,
         url: '#',
-      },
-      {
-        name: 'Cheng-Kuan Ou',
-        image: Ou,
-        url: 'https://www.linkedin.com/in/cheng-kuan-ou-620033125/',
       },
       {
         name: 'Po-Chun Lu',
