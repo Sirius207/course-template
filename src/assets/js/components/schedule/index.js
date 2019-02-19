@@ -42,7 +42,16 @@ function renderTable(theadList, tbodyList) {
     <section id="course-schedule" class="course-schedule">
       <div class="container">
         <h2>Schedule</h2>
-        TBD
+        <table class="table">
+          <thead>
+            <tr>
+              ${theadList}
+            </tr>
+          </thead>
+          <tbody>
+            ${tbodyList}
+          </tbody>
+        </table>
       </div>
     </section>
     `;
