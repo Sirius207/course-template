@@ -19,7 +19,12 @@ export default {
   }],
   title: 'Data Science and Artificial Intelligence Practice',
   description:
-    `TBD`,
+    `Data Mining/Machine Learning Theory and Practice. 
+    In this course, a series of DM/ML research topics will be taught. 
+    There are some short technical lectures and short academic/industrial panel discussions. 
+    We emphasize the importance of practices in this course. 
+    Your brain, theoretically, is a kind of models which should be trained by lots of instances. 
+    Based on the spirit of trial-and-error, we will give 2 HWs, 1 project, 1 Team-based Competition, and mostly, you should program individually.`,
   teachers: {
     instructors: [
       {
@@ -77,7 +82,7 @@ export default {
     },
     {
       title: 'Prerequisites',
-      content: `Python, Database, Probability and Statistics`,
+      content: `Python, Database, Probability and Statistics, <br>Machine Learning/Data Science Basis`,
       icon: `
         <svg xmlns="http://www.w3.org/2000/svg" width="8" height="8" viewBox="0 0 8 8">
           <path d="M4 0c-1.1 0-2 .9-2 2 0 1.04-.52 1.98-1.34 2.66-.41.34-.66.82-.66 1.34h8c0-.52-.24-1-.66-1.34-.82-.68-1.34-1.62-1.34-2.66 0-1.1-.89-2-2-2zm-1 7c0 .55.45 1 1 1s1-.45 1-1h-2z" />
