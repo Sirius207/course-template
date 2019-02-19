@@ -9,7 +9,7 @@ import getResourcesDom from './components/resources';
 function getFullDom() {
   const headerDom = getHeaderDom();
   const infoDom = getInfoSectionDom();
-  const newsDom = ''; // getNewsDom();
+  const newsDom = getNewsDom();
   const tableDom = getScheduleTableDom();
   const resourcesDom = getResourcesDom();
   const fullDom = `${headerDom}${infoDom}${newsDom}${tableDom}${resourcesDom}`;
