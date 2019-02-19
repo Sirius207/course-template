@@ -35,14 +35,14 @@ export default {
     ],
     assistants: [
       {
-        name: 'Lok-Him Leung ',
-        image: Him,
-        url: '#',
-      },
-      {
         name: 'Po-Chun Lu',
         image: Po,
         url: 'https://www.linkedin.com/in/po-chun-lu-68084893/',
+      },
+      {
+        name: 'Lok-Him Leung ',
+        image: Him,
+        url: '#',
       },
     ],
   },
@@ -50,7 +50,7 @@ export default {
     {
       title: 'Lecture',
       content: `Spring 2019
-        <br>Lecture time: Tue, 9:10-12:00pm, Feb 19 - June 26
+        <br>Lecture time: Tue, 9:10-12:00pm, Feb 19 - June 18
         <br>Class room: 65104`,
       icon: `
         <svg xmlns="http://www.w3.org/2000/svg" width="8" height="8" viewBox="0 0 8 8">
