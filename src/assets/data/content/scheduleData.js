@@ -16,6 +16,7 @@ Course Introduction
       description: `
 Database Selected Topics, <br>
 including NoSQL, Spatial DB, Big Data Processing/DB Performance
+- [Slides: Cloud Computing & Big Data](https://drive.google.com/open?id=1_icbss_t0NK2ZJjpvMea8-EFiovAtnAa)
 `,
       reading: ``,
     },

@@ -43,6 +43,7 @@ export default {
         name: 'Po-Chun Lu',
         image: Po,
         url: 'https://www.linkedin.com/in/po-chun-lu-68084893/',
+        email: 'pclu@netdb.csie.ncku.edu.tw',
       },
       {
         name: 'Lok-Him Leung ',
