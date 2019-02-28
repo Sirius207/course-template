@@ -19,7 +19,12 @@ export default {
   }],
   title: 'Data Science and Artificial Intelligence Practice',
   description:
-    `TBD`,
+    `Data Mining/Machine Learning Theory and Practice. 
+    In this course, a series of DM/ML research topics will be taught. 
+    There are some short technical lectures and short academic/industrial panel discussions. 
+    We emphasize the importance of practices in this course. 
+    Your brain, theoretically, is a kind of models which should be trained by lots of instances. 
+    Based on the spirit of trial-and-error, we will give 2 HWs, 1 project, 1 Team-based Competition, and mostly, you should program individually.`,
   teachers: {
     instructors: [
       {
@@ -35,14 +40,15 @@ export default {
     ],
     assistants: [
       {
-        name: 'Lok-Him Leung ',
-        image: Him,
-        url: '#',
-      },
-      {
         name: 'Po-Chun Lu',
         image: Po,
         url: 'https://www.linkedin.com/in/po-chun-lu-68084893/',
+        email: 'pclu@netdb.csie.ncku.edu.tw',
+      },
+      {
+        name: 'Lok-Him Leung ',
+        image: Him,
+        url: '#',
       },
     ],
   },
@@ -50,7 +56,7 @@ export default {
     {
       title: 'Lecture',
       content: `Spring 2019
-        <br>Lecture time: Tue, 9:10-12:00pm, Feb 19 - June 26
+        <br>Lecture time: Tue, 9:10-12:00pm, Feb 19 - June 18
         <br>Class room: 65104`,
       icon: `
         <svg xmlns="http://www.w3.org/2000/svg" width="8" height="8" viewBox="0 0 8 8">
@@ -59,12 +65,9 @@ export default {
     },
     {
       title: 'Grading',
-      // content: `- 4 HWs (50%)<br>
-      // - Mid-term project (15%)<br>
-      // - Team-based paper presentation (10%)<br>
-      // - Final project (25%)<br>
-      // - Panel discussion (5% bonus)`,
-      content: `TBD`,
+      content: `- 2 HWs (30%)<br>
+      - Mid-term project (20%)<br>
+      - Team-based Competition (50%)`,
       icon: `
         <svg xmlns="http://www.w3.org/2000/svg" width="8" height="8" viewBox="0 0 8 8">
           <path d="M3.5 0c-.97 0-1.84.4-2.47 1.03l2.97 2.97v-3.97c-.16-.02-.33-.03-.5-.03zm1.5 1.06v3.41l-2.72 2.72c.61.5 1.37.81 2.22.81 1.93 0 3.5-1.57 3.5-3.5 0-1.76-1.31-3.19-3-3.44zm-4.09 1.31c-.56.54-.91 1.29-.91 2.13 0 .96.46 1.79 1.16 2.34l2.13-2.13-2.38-2.34z"/>
@@ -80,7 +83,7 @@ export default {
     },
     {
       title: 'Prerequisites',
-      content: `Python, Database, Probability and Statistics`,
+      content: `Python, Database, Probability and Statistics, <br>Machine Learning/Data Science Basis`,
       icon: `
         <svg xmlns="http://www.w3.org/2000/svg" width="8" height="8" viewBox="0 0 8 8">
           <path d="M4 0c-1.1 0-2 .9-2 2 0 1.04-.52 1.98-1.34 2.66-.41.34-.66.82-.66 1.34h8c0-.52-.24-1-.66-1.34-.82-.68-1.34-1.62-1.34-2.66 0-1.1-.89-2-2-2zm-1 7c0 .55.45 1 1 1s1-.45 1-1h-2z" />
