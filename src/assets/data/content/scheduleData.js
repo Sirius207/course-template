@@ -33,7 +33,10 @@ including NoSQL, Spatial DB, Big Data Processing/DB Performance`,
 Data Mining Selected Topics, <br>
 including Association Rule/Sequential Patterns, Web Mining, Spatial-Temporal Mining, Social Network Mining
 `,
-      reading: ``,
+      reading: `
+[Intro_to_Python_Data_Science_Tools](https://github.com/Lee-W/Intro_to_Python_Data_Science_Tools)
+[AWS Education](https://drive.google.com/file/d/15qe_5_SDG9PkSPA4OTusyrLFnARCFhr9/view?usp=sharing)
+`,
     },
     {
       date: '3/19',
