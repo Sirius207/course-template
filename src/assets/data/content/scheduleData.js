@@ -16,7 +16,7 @@ Course Introduction
       description: `
 Database Selected Topics, <br>
 including NoSQL, Spatial DB, Big Data Processing/DB Performance
-- [Slides: Cloud Computing & Big Data](https://drive.google.com/open?id=1_icbss_t0NK2ZJjpvMea8-EFiovAtnAa)
+- [Slides: Cloud Computing & Big Data](https://drive.google.com/file/d/11qt-b2YbeBDBAxbM_IJ2RRyCa4c5pEFg/view?usp=sharing)
 `,
       reading: ``,
     },
@@ -30,8 +30,11 @@ including NoSQL, Spatial DB, Big Data Processing/DB Performance`,
     {
       date: '3/12',
       description: `
-Data Mining Selected Topics, <br>
-including Association Rule/Sequential Patterns, Web Mining, Spatial-Temporal Mining, Social Network Mining
+Database Selected Topics, <br>
+including NoSQL, Spatial DB, Big Data Processing/DB Performance
+- [Slides: Big Data](https://drive.google.com/file/d/11qt-b2YbeBDBAxbM_IJ2RRyCa4c5pEFg/view?usp=sharing)
+- [Video: Mites.io](https://www.youtube.com/watch?time_continue=251&v=j-0v8Tn4IH0)
+- [Video: Toyota e-Palette Concept](https://www.youtube.com/watch?v=XmoPQuMlOYE&t=4s)
 `,
       reading: `
 [Intro_to_Python_Data_Science_Tools](https://github.com/Lee-W/Intro_to_Python_Data_Science_Tools)
