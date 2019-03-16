@@ -44,8 +44,8 @@ including NoSQL, Spatial DB, Big Data Processing/DB Performance
     {
       date: '3/19',
       description: `
-Data Mining Selected Topics, <br>
-including Association Rule/Sequential Patterns, Web Mining, Spatial-Temporal Mining, Social Network Mining`,
+ML Selected Topics, <br>
+supervised and unsupervised learning`,
       reading: ``,
     },
     {
