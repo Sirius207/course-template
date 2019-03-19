@@ -37,7 +37,7 @@ including NoSQL, Spatial DB, Big Data Processing/DB Performance
 - [Video: Toyota e-Palette Concept](https://www.youtube.com/watch?v=XmoPQuMlOYE&t=4s)
 `,
       reading: `
-[Intro_to_Python_Data_Science_Tools](https://github.com/Lee-W/Intro_to_Python_Data_Science_Tools)
+[Intro_to_Python_Data_Science_Tools](https://github.com/Lee-W/Intro_to_Python_Data_Science_Tools)<br>
 [AWS Education](https://drive.google.com/file/d/15qe_5_SDG9PkSPA4OTusyrLFnARCFhr9/view?usp=sharing)
 `,
     },
@@ -45,7 +45,8 @@ including NoSQL, Spatial DB, Big Data Processing/DB Performance
       date: '3/19',
       description: `
 ML Selected Topics, <br>
-supervised and unsupervised learning`,
+supervised and unsupervised learning
+- [Slides: Supervised unsupervised Learning](https://drive.google.com/open?id=1hbF0VDyQiOSsQftR5i4KDtHhnyDgT8_u)`,
       reading: ``,
     },
     {
