@@ -52,7 +52,8 @@ supervised and unsupervised learning
     {
       date: '3/26',
       description: `Natural Language Processing Selected Topics, <br>
-      including Deep Learning-based Techniques`,
+      including Deep Learning-based Techniques
+- [Slides: NLP (1)](https://drive.google.com/file/d/1PLnu5PFTdoxdeqdhZMP9VI2OQg7Nd3FO/view?usp=sharing)`,
       reading: ``,
     },
     {
