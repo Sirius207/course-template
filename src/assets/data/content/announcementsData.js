@@ -9,6 +9,12 @@ export default [
 // [HW1 Submission Form](https://docs.google.com/forms/d/e/1FAIpQLSf3rtkRd664Cp51ti9vQQhSxa6kQR6aSOQ4_BrsfWm3Jukjvw/viewform)`,
 //   },
   {
+    date: '4/9',
+    title: 'Released HW2',
+    type: 'url',
+    url: 'https://drive.google.com/open?id=1Fm9ou_xQoQ9zCEuplPe8SLUaJNvDoX4G',
+  },
+  {
     date: '3/19',
     title: 'Released HW1',
     type: 'url',
