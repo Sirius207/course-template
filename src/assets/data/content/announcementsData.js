@@ -11,8 +11,11 @@ export default [
   {
     date: '4/9',
     title: 'Released HW2',
-    type: 'url',
-    url: 'https://drive.google.com/open?id=1Fm9ou_xQoQ9zCEuplPe8SLUaJNvDoX4G',
+    type: 'content',
+    content: `
+Check [HW2](https://drive.google.com/open?id=1Fm9ou_xQoQ9zCEuplPe8SLUaJNvDoX4G)<br>
+[HW2 Submission Form](https://docs.google.com/forms/d/e/1FAIpQLSeB8fez6aRTxMB4OLK9WJRdpL6_oVOcJMNROWZjNNNDU5gSHQ/viewform)
+    `,
   },
   {
     date: '3/19',
