@@ -91,48 +91,38 @@ supervised and unsupervised learning
     },
     {
       date: '5/7',
-      description: `TBD`,
+      description: `Final Project Topic Presentation`,
       reading: ``,
     },
-//     {
-//       date: '5/14',
-//       description: `
-// Deep Q Network & Policy Gradient
-// - [Slides: Deep Q Network](https://drive.google.com/file/d/10GRXQaiNRNBkUf5NLdLL0vhlVmluCXK6/view?usp=sharing)
-// - [Slides: Policy Gradient](https://drive.google.com/file/d/1w1Guhe3ItIwgEhQOP0Bsyav-2mI_I_XW/view?usp=sharing)
-// `,
-//       reading: ``,
-//     },
-//     {
-//       date: '5/21',
-//       description: `
-// Actor-Critic algorithm & Research papers
-// - [Slides: Actor-Critic algorithm](https://drive.google.com/file/d/1r-IlUrSyjoOPh-xRxmF0ysBnxUUyIbce/view?usp=sharing)
-// - [Slides: Frontiers in RL](https://drive.google.com/file/d/1by4JlxUBgCXhii3LEjFP7DTSU6lYDILV/view?usp=sharing)
-// `,
-//       reading: ``,
-//     },
-//     {
-//       date: '5/28',
-//       description: `
-// Team-based paper presentation I`,
-//       reading: ``,
-//     },
-//     {
-//       date: '6/4',
-//       description: `
-// Team-based paper presentation II`,
-//       reading: ``,
-//     },
-//     {
-//       date: '6/11',
-//       description: `Final Project Presentation I`,
-//       reading: ``,
-//     },
-//     {
-//       date: '6/18',
-//       description: `Final Project Presentation II`,
-//       reading: ``,
-//     },
+    {
+      date: '5/14',
+      description: `Selected Speech`,
+      reading: ``,
+    },
+    {
+      date: '5/21',
+      description: `Final Project Progress Presentation I`,
+      reading: ``,
+    },
+    {
+      date: '5/28',
+      description: `Selected Sharing Talks`,
+      reading: ``,
+    },
+    {
+      date: '6/4',
+      description: `Final Project Progress Presentation II`,
+      reading: ``,
+    },
+    {
+      date: '6/11',
+      description: `Final Project Progress Presentation III`,
+      reading: ``,
+    },
+    {
+      date: '6/18',
+      description: `Final Project Presentation`,
+      reading: ``,
+    }
   ],
 };
