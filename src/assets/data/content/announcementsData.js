@@ -9,6 +9,12 @@ export default [
 // [HW1 Submission Form](https://docs.google.com/forms/d/e/1FAIpQLSf3rtkRd664Cp51ti9vQQhSxa6kQR6aSOQ4_BrsfWm3Jukjvw/viewform)`,
 //   },
   {
+    date: '4/23',
+    title: 'Released Midterm-Project',
+    type: 'url',
+    url: 'https://hackmd.io/yKVTVyprRuuNOg6aNWeHPw?view',
+  },
+  {
     date: '4/9',
     title: 'Released HW2',
     type: 'content',
