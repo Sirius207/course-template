@@ -92,12 +92,12 @@ supervised and unsupervised learning
     },
     {
       date: '5/7',
-      description: `Final Project Topic Presentation (1)`,
+      description: `Final Project Topic Presentation I`,
       reading: ``,
     },
     {
       date: '5/14',
-      description: `Final Project Topic Presentation (2)`,
+      description: `Final Project Topic Presentation II`,
       reading: ``,
     },
     {
