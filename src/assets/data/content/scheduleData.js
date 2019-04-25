@@ -77,8 +77,9 @@ supervised and unsupervised learning
     },
     {
       date: '4/23',
-      description: `ML Selected Topics, <br>
-      including Reinforcement Learning
+      description: `Data Science Selected Topics<br>
+- [Slides: PageRank](https://drive.google.com/open?id=1fN69TU5BasueyOdnT2RrvRGsXerEQJAs)
+- [Slides: Social Media Mining](https://drive.google.com/open?id=1OSSQlYXhE5SCRhJWg4w6rH8Ac2LyfiyY)
 `,
       reading: ``,
     },
@@ -91,12 +92,12 @@ supervised and unsupervised learning
     },
     {
       date: '5/7',
-      description: `Final Project Topic Presentation`,
+      description: `Final Project Topic Presentation (1)`,
       reading: ``,
     },
     {
       date: '5/14',
-      description: `Selected Speech`,
+      description: `Final Project Topic Presentation (2)`,
       reading: ``,
     },
     {
