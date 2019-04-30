@@ -85,8 +85,8 @@ supervised and unsupervised learning
     },
     {
       date: '4/30',
-      description: `ML Selected Topics, <br>
-      including Reinforcement Learning
+      description: `ML Selected Topics<br>
+- [Slides: Deep Learning Foundations](https://drive.google.com/open?id=12uTqb4tCyBj_Wj5g8ccywAdkR01Tw-Q4)
 `,
       reading: ``,
     },
