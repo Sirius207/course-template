@@ -5,6 +5,7 @@ import Kao from '../../media/images/kao-min.jpg';
 import Chuang from '../../media/images/chuang-min.jpg';
 import Him from '../../media/images/him-min.jpg';
 import Po from '../../media/images/po-min.jpg';
+import Shan from '../../media/images/shan-yun.jpg';
 
 export default {
   nav: [{
@@ -40,13 +41,18 @@ export default {
     ],
     assistants: [
       {
+        name: 'Shan-Yun Teng',
+        image: Shan,
+        url: '#',
+      },
+      {
         name: 'Po-Chun Lu',
         image: Po,
         url: 'https://www.linkedin.com/in/po-chun-lu-68084893/',
         email: 'pclu@netdb.csie.ncku.edu.tw',
       },
       {
-        name: 'Lok-Him Leung ',
+        name: 'Lok-Him Leung',
         image: Him,
         url: '#',
       },
